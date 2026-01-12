@@ -1,0 +1,25 @@
+[package]
+name = "rsxtk"
+version = "0.3.2"
+edition = "2024"
+authors = ["Jon Marcum <jrmarcum@gmail.com>"]
+description = "A high-performance Rust WASM Toolkit for managing and running WASI scripts, WAT, and WASM modules."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/jrmarcum/rsxtk"
+homepage = "https://github.com/jrmarcum/rsxtk"
+documentation = "https://github.com/jrmarcum/rsxtk"
+readme = "README.md"
+keywords = ["wasm", "wasi", "wasmtime", "toolkit", "cli"]
+categories = ["development-tools", "wasm"]
+
+[dependencies]
+anyhow = "1.0.100"
+clap = { version = "4.5.54", features = ["derive"] }
+tokio = { version = "1.49.0", features = ["full"] }
+wasmtime = "40.0.1"
+wasmtime-wasi = { version = "40.0.1", features = ["p1"] }
+wat = "1.244.0"
+wasmprinter = "0.244.0"
+walrus = "0.24.4"
+reqwest = { version = "0.11", features = ["blocking", "json"] }
+serde_json = "1.0"
