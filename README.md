@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="rsxtk logo" width="300">
+  <img src="rsxtk_logo.png" alt="rsxtk logo" width="300">
 </p>
 
 # rsxtk 🧰
@@ -151,5 +151,6 @@ On Windows, if your project is deep within a folder structure, you may encounter
 
 ### 3. Wasmtime Execution Errors
 * **Unsupported ELF Header**: Occurs if a `.wat` file wasn't converted or a `.cwasm` is incompatible. Run `rsxtk clean` and try again.
+
 
 
