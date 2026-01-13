@@ -1,0 +1,2 @@
+cargo:rerun-if-changed=build.rs
+cargo:rustc-env=DEBUG_OUTPUT_DIR=C:\Users\jrmar\OneDrive\Documents\GitHub\rsxtk\target\debug\build\wiggle-macro-6ff7b70771ee333e\out

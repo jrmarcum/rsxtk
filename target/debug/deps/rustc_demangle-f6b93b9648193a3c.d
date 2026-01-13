@@ -1,0 +1,7 @@
+C:\Users\jrmar\OneDrive\Documents\GitHub\rsxtk\target\debug\deps\rustc_demangle-f6b93b9648193a3c.d: C:\Users\jrmar\scoop\apps\rustup-msvc\current\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustc-demangle-0.1.26\src\lib.rs C:\Users\jrmar\scoop\apps\rustup-msvc\current\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustc-demangle-0.1.26\src\legacy.rs C:\Users\jrmar\scoop\apps\rustup-msvc\current\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustc-demangle-0.1.26\src\v0.rs
+
+C:\Users\jrmar\OneDrive\Documents\GitHub\rsxtk\target\debug\deps\librustc_demangle-f6b93b9648193a3c.rmeta: C:\Users\jrmar\scoop\apps\rustup-msvc\current\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustc-demangle-0.1.26\src\lib.rs C:\Users\jrmar\scoop\apps\rustup-msvc\current\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustc-demangle-0.1.26\src\legacy.rs C:\Users\jrmar\scoop\apps\rustup-msvc\current\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustc-demangle-0.1.26\src\v0.rs
+
+C:\Users\jrmar\scoop\apps\rustup-msvc\current\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustc-demangle-0.1.26\src\lib.rs:
+C:\Users\jrmar\scoop\apps\rustup-msvc\current\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustc-demangle-0.1.26\src\legacy.rs:
+C:\Users\jrmar\scoop\apps\rustup-msvc\current\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustc-demangle-0.1.26\src\v0.rs:
