@@ -13,7 +13,7 @@ use wasmtime_wasi::p1::{self, WasiP1Ctx};
 #[command(
     name = "rsxtk", 
     about = "🦀 Rust WASM Toolkit: High-performance manager for Rust WASI scripts.",
-    version = "1.0.0"
+    version = "0.3.3"
 )]
 struct Cli {
     #[command(subcommand)]
