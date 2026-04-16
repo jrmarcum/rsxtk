@@ -1,4 +1,0 @@
-LIBRARY
-EXPORTS
-  __rustc_proc_macro_decls_9941db16d7396ec1__ DATA
-  rust_metadata_wasmtime_internal_versioned_export_macros_9941db16d7396ec1 DATA
