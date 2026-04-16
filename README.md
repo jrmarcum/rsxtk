@@ -2,22 +2,26 @@
   <img src="rsxtk_logo.png" alt="rsxtk logo" width="300">
 </p>
 
-# rsxtk 🧰
+# rsxtk (Rust Scripting Toolkit) 🦀
 
-**Rust Script and WebAssembly Toolkit** — A high-performance manager and CLI for building, running, and managing Rust scripts, WebAssembly Text (WAT), and WASI based WASM modules.
+`rsxtk` is a high-performance scripting toolkit that allows you to run single Rust files as standalone scripts with automatic dependency management, WASM/WASI compilation, and localized resource support.
 
-## 🚀 Key Features
-* **Universal Entry Point**: Run `.rs`, `.wat`, `.wasm` or `.cwasm` files directly.
-* **Automatic Pipeline**: Automatically handles `Rust -> WASM -> CWASM` compilation and caching.
-* **AOT Performance**: Uses Wasmtime's Ahead-of-Time (AOT) compilation for near-instant execution.
-* **Smart Conversion**: Bidirectional conversion between `.wat` (text) and `.wasm` (binary) with auto-naming.
-* **Dependency Management**: Add/Remove/List dependencies stored directly in script frontmatter.
+
 
 ---
 
-## 🛠 Installation
+## Prerequisites
 
-Ensure you have the [Rust toolchain](https://rustup.rs/) and the `wasm32-wasip1` target installed:
+Before installing `rsxtk`, you must have the Nightly Rust toolchain installed on your system. 
+**Get started here: [rust-lang.org/learn/get-started/](https://www.rust-lang.org/learn/get-started/)**
+
+Ensure you have the Nightly Rust toolchain
+```bash
+rustup install nightly
+rustup default nightly
+```
+
+and `wasm32-wasip1` target installed:
 
 ```bash
 rustup target add wasm32-wasip1
@@ -25,68 +29,92 @@ rustup target add wasm32-wasip1
 
 ---
 
-## 📖 Usage Guide
+## New Features in v0.4.2
 
-### 1. Running Scripts
-You can run a raw Rust script, a WebAssembly Text file, or a binary module. `rsxtk` detects the format and applies the necessary compilation steps automatically.
+-   **⚡ Wasmtime Disk Cache**: The engine now loads the default wasmtime cache config on startup, so repeated runs of the same `.wasm` file skip Cranelift recompilation entirely — matching the behaviour of the `wasmtime` CLI.
+-   **📦 Resource Management (`rsc/`)**: A dedicated folder for local assets (HTML, CSV, JSON, etc.) that is automatically mirrored into the build environment.
+-   **🔨 build.rs Support**: Automatically detects and utilizes a `build.rs` file located next to your script for complex build instructions.
+-   **🔍 Auto-Dependency Versioning**: Adding a dependency via CLI without specifying a version now automatically fetches the latest stable release from Crates.io.
+-   **🚀 WASI Preview 1 (v40) Support**: Fully compatible with the latest `wasmtime-wasi` error handling and exit status types.
+- **Smart Entry**: Attempts to run via `_start` (WASI). If missing, automatically lists callable functions.
+- **Library Mode**: Use `mod` to call specific functions with arguments from the CLI.
+- **Rich Metadata**: `info` command provides detailed function signatures (params and return types).
+- **Format Support**: Direct support for `.rs`, `.wasm`, `.wat`, and `.cwasm`.
+- **Zero-Config WASI**: Scripts are automatically sandboxed to their own parent directory.
 
+---
+
+## Quick Start
+
+### 1. Initialize a Script
 ```bash
-rsxtk run main.rs         # Compiles via virtual Cargo and runs
-rsxtk run logic.wat       # Compiles WAT to binary and runs
-rsxtk run module.wasm     # Pre-compiles to native AOT and runs
+rsxtk init my_script.rs
 ```
 
-### 2. Building Modules
-Generate specific artifacts for distribution or native execution.
-
+### 2. Add Dependencies
+Add a crate (it will automatically find the latest version for you):
 ```bash
-rsxtk build main.rs wasi  # Generates a portable .wasm file
-rsxtk build main.rs cwasm # Generates a native Wasmtime artifact
+rsxtk add my_script.rs reqwest
 ```
 
-### 3. Converting Formats
-Convert between binary and text formats. If no output is provided, it swaps the extension automatically.
-
+### 3. Remove Dependencies
+Add a crate (it will automatically find the latest version for you):
 ```bash
-rsxtk convert main.wasm             # Creates main.wat
-rsxtk convert main.wat              # Creates main.wasm
-rsxtk convert main.wasm -o dev.wat  # Specific output name
+rsxtk remove my_script.rs reqwest
 ```
 
-### 4. Project Initialization
-Quickly scaffold new Code scripts or library modules.
-
+### 4. Manage Resources
+Create a resource directory and place assets (like `index.html`) inside:
 ```bash
-rsxtk init my_script      # Creates my_script.rs with main function
-rsxtk init-mod my_lib     # Creates my_lib.rs as a public module (Note: running modules not currently active)
+rsxtk resource my_script.rs
+```
+Place your local dependency files in the newly created `rsc/` folder. You can reference them in your script like this:
+
+### 5. Run (WASM Sandbox)
+Compiles to WASM and runs in a secure, sandboxed environment.
+```bash
+rsxtk run my_script.rs
 ```
 
-### 5. Managing Dependencies
-Scripts use a `---` fenced frontmatter block to store dependencies.
-
+### 6. Csrun (Native Native)
+Runs natively on the host using the Cargo script interface.
 ```bash
-rsxtk add main.rs serde       # Adds the latest serde to the script dependency manifest
-rsxtk add main.rs serde 1.0   # Adds serde to the script dependency manifest
-rsxtk list main.rs            # Lists current dependencies in the manifest
-rsxtk remove main.rs serde    # Removes serde from the script dependency manifest
+rsxtk csrun my_script.rs
 ```
 
 ---
 
-## 📋 Command Reference
+## CLI Command Reference
 
-| Command | Description |
-| :--- | :--- |
-| `run <path>` | Runs `.rs`, `.wat`, or `.wasm` through the AOT pipeline. |
-| `build <path> <target>` | Builds `wasi`, `wasm`, or `cwasm` artifacts. |
-| `convert <in> [-o out]` | Converts between `.wat` and `.wasm` (Autonames). |
-| `init <name>` | Creates a new script template. |
-| `init-mod <name>` | Creates a new module template. |
-| `bench <path>` | Benchmarks execution speed over N iterations. |
-| `fmt <path>` | Formats the Rust code within the script. |
-| `optimize <path>` | Uses `walrus` to shrink WASM file size. |
-| `info <path>` | Displays WASM imports and exports. |
-| `clean` | Wipes the `.tk` build cache. |
+| Command | Usage | Description |
+| :--- | :--- | :--- |
+| `init` | `rsxtk init <name>` | Creates a new script with a manifest header. |
+| `run` | `rsxtk run <file>` | Runs file in the WASM/WASI sandbox. |
+| `csrun` | `rsxtk csrun <file>` | Runs file natively via `cargo -Z script`. |
+| `resource` | `rsxtk resource <file>` | Creates an `rsc/` folder for local assets. |
+| `add` | `rsxtk add <file> <crate>` | Adds a dependency to the script manifest. |
+| `remove` | `rsxtk remove <file> <crate>` | Removes a dependency from the script manifest. |
+| `list` | `rsxtk list <file>` | Lists current dependencies in the script. |
+| `fmt` | `rsxtk fmt <file>` | Formats the Rust code inside the script (preserving manifest). |
+| `build` | `rsxtk build <file> <target>` | Compiles to `wasi`, `wasm`, or `cwasm`. |
+| `clean` | `rsxtk clean` | Wipes the `.tk` build cache. |
+
+---
+
+## Technical Details
+
+### The Build Pipeline
+When you run a script, `rsxtk` performs the following steps:
+1.  **Parsing**: Separates the TOML manifest from the Rust source code using triple-dash boundaries.
+2.  **Mirroring**: 
+    -   Copies the script into a temporary `Cargo` project inside `.tk/`.
+    -   Copies the `rsc/` folder (if present) into the project root.
+    -   Copies `build.rs` (if present) into the project root.
+3.  **'run' option**    
+    - **Compilation**: Invokes `cargo` to target `wasm32-wasip1`.
+    - **Optimization**: Pre-compiles the result into a `.cwasm` artifact and caches it. On subsequent runs the compiled module is loaded from the wasmtime disk cache, skipping Cranelift entirely.
+    - **Sandboxing**: Runs the artifact in a secure WASI sandbox with the project root pre-opened for file access.
+4.  **'csrun' option**: runs the cargo -Z script from the nightly version of rust
 
 ---
 
@@ -152,5 +180,6 @@ On Windows, if your project is deep within a folder structure, you may encounter
 ### 3. Wasmtime Execution Errors
 * **Unsupported ELF Header**: Occurs if a `.wat` file wasn't converted or a `.cwasm` is incompatible. Run `rsxtk clean` and try again.
 
+### 4. Wasmtime Version Compatibility
 
-
+`rsxtk` is pinned to **wasmtime 40.x**. Versions 42.x and later reintroduce `aws-lc-sys` into the dependency chain, which requires **NASM** and **cmake** to build. On Windows environments without those tools the build will fail with `Missing dependency: cmake`. Do not upgrade wasmtime until NASM and cmake are available, or until an alternative pure-Rust crypto path is available in that version.

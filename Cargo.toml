@@ -1,6 +1,6 @@
 [package]
 name = "rsxtk"
-version = "0.3.3"
+version = "0.4.3"
 edition = "2024"
 authors = ["Jon Marcum <jrmarcum@gmail.com>"]
 description = "A high-performance Rust WASM Toolkit for managing and running WASI scripts, WAT, and WASM modules."
@@ -9,17 +9,34 @@ repository = "https://github.com/jrmarcum/rsxtk"
 homepage = "https://github.com/jrmarcum/rsxtk"
 documentation = "https://github.com/jrmarcum/rsxtk"
 readme = "README.md"
-keywords = ["wasm", "wasi", "wasmtime", "toolkit", "cli"]
+keywords = ["rust","wasm", "wasi", "toolkit", "cli"]
 categories = ["development-tools", "wasm"]
 
 [dependencies]
-anyhow = "1.0.100"
-clap = { version = "4.5.54", features = ["derive"] }
-tokio = { version = "1.49.0", features = ["full"] }
-wasmtime = "40.0.1"
-wasmtime-wasi = { version = "40.0.1", features = ["p1"] }
+# Standard utilities
+anyhow = "1.0"
+clap = { version = "4.5", features = ["derive"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+# Wasmtime: Pure-Rust Configuration
+# - default-features = false removes 'aws-lc-rs' (the CMake requirement)
+# - 42.x+ reintroduces aws-lc-sys (requires NASM/cmake) in the dep chain, stay on 40.x
+wasmtime = { version = "40.0.1", default-features = false, features = ["cranelift", "runtime", "component-model", "cache"] }
+wasmtime-wasi = { version = "40.0.1", default-features = false, features = ["p1"] }
+
+# Wasm Tooling (Pure Rust)
 wat = "1.244.0"
 wasmprinter = "0.244.0"
 walrus = "0.24.4"
-reqwest = { version = "0.11", features = ["blocking", "json"] }
-serde_json = "1.0"
+
+# Reqwest: Pure-Rust TLS
+# Using 'rustls-tls-manual-roots' ensures we don't pull in C-based crypto builders
+reqwest = { version = "0.13.1", default-features = false, features = ["blocking", "json", "http2", "rustls"] }
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true
