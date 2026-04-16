@@ -1,0 +1,2 @@
+cargo:rerun-if-changed=build.rs
+cargo:rustc-env=DEBUG_OUTPUT_DIR=D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\build\wasmtime-internal-component-macro-e8861b088e315998\out

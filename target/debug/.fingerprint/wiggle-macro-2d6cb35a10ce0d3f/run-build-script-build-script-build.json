@@ -1,0 +1,1 @@
+{"rustc":9486059319700258884,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[17640378917733219877,"build_script_build",false,9102776340627173660]],"local":[{"RerunIfChanged":{"output":"debug\\build\\wiggle-macro-2d6cb35a10ce0d3f\\output","paths":["build.rs"]}}],"rustflags":[],"config":0,"compile_kind":0}

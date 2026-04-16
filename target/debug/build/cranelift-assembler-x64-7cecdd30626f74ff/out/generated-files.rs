@@ -1,0 +1,3 @@
+vec![
+  "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\cranelift-assembler-x64-7cecdd30626f74ff\\out\\assembler.rs".into(),
+]

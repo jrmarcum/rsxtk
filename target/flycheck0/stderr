@@ -1,0 +1,1393 @@
+   1.595242400s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `socket2` is newer than we are 13420855734.000000000s > 13420855254.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\tokio-1.49.0"
+   1.917855000s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `build_script_build` is newer than we are 13420855718.000000000s > 13420855602.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zmij-1.0.13"
+   2.079347000s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `anyhow` is newer than we are 13420855716.000000000s > 13420855626.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\walrus-0.24.4"
+   2.093309100s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `semver` is newer than we are 13420855720.000000000s > 13420855614.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmparser-0.244.0"
+   2.095684700s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `anyhow` is newer than we are 13420855716.000000000s > 13420855626.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmprinter-0.244.0"
+   2.163369900s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `build_script_build` is newer than we are 13420855726.000000000s > 13420855226.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\target-lexicon-0.13.4"
+   2.167962700s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `indexmap` is newer than we are 13420855720.000000000s > 13420855254.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\gimli-0.32.3"
+   2.171277000s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `anyhow` is newer than we are 13420855716.000000000s > 13420855424.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmprinter-0.243.0"
+   2.212449700s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `serde_core` is newer than we are 13420855714.000000000s > 13420855428.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\serde_spanned-1.0.4"
+   2.213884200s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `serde_core` is newer than we are 13420855714.000000000s > 13420855430.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\toml_datetime-0.7.5+spec-1.1.0"
+   2.245672400s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `anyhow` is newer than we are 13420855716.000000000s > 13420855492.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-cache-40.0.4"
+   2.249915100s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `build_script_build` is newer than we are 13420855712.000000000s > 13420855328.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\anyhow-1.0.100"
+   2.289289300s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `build_script_build` is newer than we are 13420855712.000000000s > 13420855270.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\serde_core-1.0.228"
+   2.344261900s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `build_script_build` is newer than we are 13420855718.000000000s > 13420855358.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zmij-1.0.13"
+   2.506611900s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `anyhow` is newer than we are 13420855716.000000000s > 13420855454.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-unwinder-40.0.4"
+   2.511112900s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `anyhow` is newer than we are 13420855716.000000000s > 13420855492.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-fiber-40.0.4"
+   2.512656400s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `anyhow` is newer than we are 13420855716.000000000s > 13420855496.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-jit-icache-coherence-40.0.4"
+   2.578102600s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `windows_sys` is newer than we are 13420855722.000000000s > 13420855404.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\winx-0.36.4"
+   2.682885800s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `windows_sys` is newer than we are 13420855722.000000000s > 13420855602.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\fd-lock-4.0.4"
+   2.686882200s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: dependency on `bitflags` is newer than we are 13420855112.000000000s > 13420854898.000000000s "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\system-interface-0.27.3"
+   2.800453700s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: fingerprint error for rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk)/Check { test: false }/TargetInner { name: "rsxtk", doc: true, ..: with_path("D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\src\\main.rs", Edition2024) }
+   2.800528600s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\rsxtk-d7ec6270fb5ebde7\bin-rsxtk`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   2.935503500s  INFO prepare_target{force=false package_id=clap v4.5.54 target="clap"}: cargo::core::compiler::fingerprint: fingerprint dirty for clap v4.5.54/Check { test: false }/TargetInner { benched: false, ..: lib_target("clap", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\clap-4.5.54\\src\\lib.rs", Edition2021) }
+   2.935563900s  INFO prepare_target{force=false package_id=clap v4.5.54 target="clap"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(44) })
+   3.071344200s  INFO prepare_target{force=false package_id=clap_derive v4.5.49 target="clap_derive"}: cargo::core::compiler::fingerprint: fingerprint dirty for clap_derive v4.5.49/Build/TargetInner { benched: false, for_host: true, proc_macro: true, ..: lib_target("clap_derive", ["proc-macro"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\clap_derive-4.5.49\\src\\lib.rs", Edition2021) }
+   3.071389600s  INFO prepare_target{force=false package_id=clap_derive v4.5.49 target="clap_derive"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(238) })
+   3.224207500s  INFO prepare_target{force=false package_id=syn v2.0.114 target="syn"}: cargo::core::compiler::fingerprint: fingerprint dirty for syn v2.0.114/Build/TargetInner { ..: lib_target("syn", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\syn-2.0.114\\src\\lib.rs", Edition2021) }
+   3.224244900s  INFO prepare_target{force=false package_id=syn v2.0.114 target="syn"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\deps\\libsyn-77e53d794c99bcf1.rlib" }))
+   3.252812800s  INFO prepare_target{force=false package_id=reqwest v0.13.1 target="reqwest"}: cargo::core::compiler::fingerprint: fingerprint error for reqwest v0.13.1/Check { test: false }/TargetInner { ..: lib_target("reqwest", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\reqwest-0.13.1\\src\\lib.rs", Edition2021) }
+   3.252849200s  INFO prepare_target{force=false package_id=reqwest v0.13.1 target="reqwest"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\reqwest-29a4274fef7978a3\lib-reqwest`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   3.356163200s  INFO prepare_target{force=false package_id=h2 v0.4.13 target="h2"}: cargo::core::compiler::fingerprint: fingerprint dirty for h2 v0.4.13/Check { test: false }/TargetInner { ..: lib_target("h2", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\h2-0.4.13\\src\\lib.rs", Edition2021) }
+   3.356220400s  INFO prepare_target{force=false package_id=h2 v0.4.13 target="h2"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(259) })
+   3.485843500s  INFO prepare_target{force=false package_id=tokio v1.49.0 target="tokio"}: cargo::core::compiler::fingerprint: fingerprint dirty for tokio v1.49.0/Check { test: false }/TargetInner { ..: lib_target("tokio", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\tokio-1.49.0\\src\\lib.rs", Edition2021) }
+   3.485882000s  INFO prepare_target{force=false package_id=tokio v1.49.0 target="tokio"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDependency { unit: UnitIndex(234), dep_mtime: FileTime { seconds: 13420855734, nanos: 0 }, max_mtime: FileTime { seconds: 13420855254, nanos: 0 } })
+   3.522189800s  INFO prepare_target{force=false package_id=socket2 v0.6.1 target="socket2"}: cargo::core::compiler::fingerprint: fingerprint dirty for socket2 v0.6.1/Check { test: false }/TargetInner { ..: lib_target("socket2", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\socket2-0.6.1\\src\\lib.rs", Edition2021) }
+   3.522226800s  INFO prepare_target{force=false package_id=socket2 v0.6.1 target="socket2"}: cargo::core::compiler::fingerprint:     dirty: NothingObvious
+   3.626980200s  INFO prepare_target{force=false package_id=tokio-util v0.7.18 target="tokio_util"}: cargo::core::compiler::fingerprint: fingerprint dirty for tokio-util v0.7.18/Check { test: false }/TargetInner { ..: lib_target("tokio_util", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\tokio-util-0.7.18\\src\\lib.rs", Edition2021) }
+   3.627158000s  INFO prepare_target{force=false package_id=tokio-util v0.7.18 target="tokio_util"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(257) })
+   3.651597200s  INFO prepare_target{force=false package_id=tracing v0.1.44 target="tracing"}: cargo::core::compiler::fingerprint: fingerprint dirty for tracing v0.1.44/Check { test: false }/TargetInner { ..: lib_target("tracing", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\tracing-0.1.44\\src\\lib.rs", Edition2018) }
+   3.651635600s  INFO prepare_target{force=false package_id=tracing v0.1.44 target="tracing"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(269) })
+   3.687162700s  INFO prepare_target{force=false package_id=tracing-attributes v0.1.31 target="tracing_attributes"}: cargo::core::compiler::fingerprint: fingerprint dirty for tracing-attributes v0.1.31/Build/TargetInner { for_host: true, proc_macro: true, ..: lib_target("tracing_attributes", ["proc-macro"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\tracing-attributes-0.1.31\\src\\lib.rs", Edition2018) }
+   3.687220500s  INFO prepare_target{force=false package_id=tracing-attributes v0.1.31 target="tracing_attributes"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(238) })
+   3.742558500s  INFO prepare_target{force=false package_id=hyper v1.8.1 target="hyper"}: cargo::core::compiler::fingerprint: fingerprint dirty for hyper v1.8.1/Check { test: false }/TargetInner { ..: lib_target("hyper", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\hyper-1.8.1\\src\\lib.rs", Edition2021) }
+   3.742604700s  INFO prepare_target{force=false package_id=hyper v1.8.1 target="hyper"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(109) })
+   3.769290600s  INFO prepare_target{force=false package_id=httparse v1.10.1 target="httparse"}: cargo::core::compiler::fingerprint: fingerprint dirty for httparse v1.10.1/Check { test: false }/TargetInner { benched: false, ..: lib_target("httparse", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\httparse-1.10.1\\src\\lib.rs", Edition2018) }
+   3.769331300s  INFO prepare_target{force=false package_id=httparse v1.10.1 target="httparse"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(120) })
+   3.822222100s  INFO prepare_target{force=false package_id=httparse v1.10.1 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for httparse v1.10.1/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\httparse-1.10.1\\build.rs", Edition2018) }
+   3.822273800s  INFO prepare_target{force=false package_id=httparse v1.10.1 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(119) })
+   3.850950500s  INFO prepare_target{force=false package_id=httparse v1.10.1 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for httparse v1.10.1/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\httparse-1.10.1\\build.rs", Edition2018) }
+   3.850996500s  INFO prepare_target{force=false package_id=httparse v1.10.1 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\httparse-8d2f3f63d5f468be\\build_script_build-8d2f3f63d5f468be.exe" }))
+   3.861889100s  INFO prepare_target{force=false package_id=smallvec v1.15.1 target="smallvec"}: cargo::core::compiler::fingerprint: fingerprint dirty for smallvec v1.15.1/Check { test: false }/TargetInner { ..: lib_target("smallvec", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\smallvec-1.15.1\\src\\lib.rs", Edition2018) }
+   3.861934700s  INFO prepare_target{force=false package_id=smallvec v1.15.1 target="smallvec"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(215) })
+   3.871876100s  INFO prepare_target{force=false package_id=serde v1.0.228 target="serde"}: cargo::core::compiler::fingerprint: fingerprint dirty for serde v1.0.228/Check { test: false }/TargetInner { ..: lib_target("serde", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\serde-1.0.228\\src\\lib.rs", Edition2021) }
+   3.871913800s  INFO prepare_target{force=false package_id=serde v1.0.228 target="serde"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(224) })
+   3.931080500s  INFO prepare_target{force=false package_id=serde_derive v1.0.228 target="serde_derive"}: cargo::core::compiler::fingerprint: fingerprint dirty for serde_derive v1.0.228/Build/TargetInner { for_host: true, proc_macro: true, ..: lib_target("serde_derive", ["proc-macro"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\serde_derive-1.0.228\\src\\lib.rs", Edition2021) }
+   3.931121600s  INFO prepare_target{force=false package_id=serde_derive v1.0.228 target="serde_derive"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(238) })
+   3.958515300s  INFO prepare_target{force=false package_id=hyper-rustls v0.27.7 target="hyper_rustls"}: cargo::core::compiler::fingerprint: fingerprint error for hyper-rustls v0.27.7/Check { test: false }/TargetInner { ..: lib_target("hyper_rustls", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\hyper-rustls-0.27.7\\src\\lib.rs", Edition2021) }
+   3.958552800s  INFO prepare_target{force=false package_id=hyper-rustls v0.27.7 target="hyper_rustls"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\hyper-rustls-dac9b6f9b6738bb8\lib-hyper_rustls`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   3.963000300s  INFO prepare_target{force=false package_id=hyper-util v0.1.19 target="hyper_util"}: cargo::core::compiler::fingerprint: fingerprint dirty for hyper-util v0.1.19/Check { test: false }/TargetInner { ..: lib_target("hyper_util", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\hyper-util-0.1.19\\src\\lib.rs", Edition2021) }
+   3.963046600s  INFO prepare_target{force=false package_id=hyper-util v0.1.19 target="hyper_util"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(161) }
+   3.996873500s  INFO prepare_target{force=false package_id=libc v0.2.180 target="libc"}: cargo::core::compiler::fingerprint: fingerprint dirty for libc v0.2.180/Check { test: false }/TargetInner { ..: lib_target("libc", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\libc-0.2.180\\src\\lib.rs", Edition2021) }
+   3.996922200s  INFO prepare_target{force=false package_id=libc v0.2.180 target="libc"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(163) }
+   4.029998800s  INFO prepare_target{force=false package_id=libc v0.2.180 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for libc v0.2.180/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\libc-0.2.180\\build.rs", Edition2021) }
+   4.030040600s  INFO prepare_target{force=false package_id=libc v0.2.180 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalLengthsChanged
+   4.073051800s  INFO prepare_target{force=false package_id=libc v0.2.180 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for libc v0.2.180/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\libc-0.2.180\\build.rs", Edition2021) }
+   4.073091800s  INFO prepare_target{force=false package_id=libc v0.2.180 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\libc-98773089de70f618\\build_script_build-98773089de70f618.exe" }))
+   4.117906800s  INFO prepare_target{force=false package_id=rustls v0.23.36 target="rustls"}: cargo::core::compiler::fingerprint: fingerprint error for rustls v0.23.36/Check { test: false }/TargetInner { ..: lib_target("rustls", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rustls-0.23.36\\src\\lib.rs", Edition2021) }
+   4.117941900s  INFO prepare_target{force=false package_id=rustls v0.23.36 target="rustls"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\rustls-b712c62cbf4e4422\lib-rustls`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   4.121631900s  INFO prepare_target{force=false package_id=aws-lc-rs v1.15.2 target="aws_lc_rs"}: cargo::core::compiler::fingerprint: fingerprint error for aws-lc-rs v1.15.2/Check { test: false }/TargetInner { ..: lib_target("aws_lc_rs", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\aws-lc-rs-1.15.2\\src\\lib.rs", Edition2021) }
+   4.121651200s  INFO prepare_target{force=false package_id=aws-lc-rs v1.15.2 target="aws_lc_rs"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\aws-lc-rs-3c3083ba3c180296\lib-aws_lc_rs`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   4.139378400s  INFO prepare_target{force=false package_id=aws-lc-rs v1.15.2 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint error for aws-lc-rs v1.15.2/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\aws-lc-rs-1.15.2\\build.rs", Edition2021) }
+   4.139400600s  INFO prepare_target{force=false package_id=aws-lc-rs v1.15.2 target="build-script-build"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\aws-lc-rs-e18e18fd7c101d10\run-build-script-build-script-build`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: git_libgit2_prerelease
+  18: <unknown>
+  19: <unknown>
+  20: <unknown>
+  21: <unknown>
+  22: git_midx_writer_dump
+  23: git_filter_source_repo
+  24: git_midx_writer_dump
+  25: BaseThreadInitThunk
+  26: RtlUserThreadStart
+   4.142088000s  INFO prepare_target{force=false package_id=aws-lc-rs v1.15.2 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint error for aws-lc-rs v1.15.2/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\aws-lc-rs-1.15.2\\build.rs", Edition2021) }
+   4.142106800s  INFO prepare_target{force=false package_id=aws-lc-rs v1.15.2 target="build-script-build"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\aws-lc-rs-7b15cf735d53f99b\build-script-build-script-build`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: git_libgit2_prerelease
+  18: <unknown>
+  19: <unknown>
+  20: <unknown>
+  21: <unknown>
+  22: git_midx_writer_dump
+  23: git_filter_source_repo
+  24: git_midx_writer_dump
+  25: BaseThreadInitThunk
+  26: RtlUserThreadStart
+   4.162724000s  INFO prepare_target{force=false package_id=aws-lc-sys v0.35.0 target="build-script-main"}: cargo::core::compiler::fingerprint: fingerprint error for aws-lc-sys v0.35.0/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-main", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\aws-lc-sys-0.35.0\\builder\\main.rs", Edition2021) }
+   4.162753500s  INFO prepare_target{force=false package_id=aws-lc-sys v0.35.0 target="build-script-main"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\aws-lc-sys-9afe52efb162662e\run-build-script-build-script-main`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: git_filter_source_repo
+  18: git_libgit2_prerelease
+  19: <unknown>
+  20: <unknown>
+  21: <unknown>
+  22: <unknown>
+  23: git_midx_writer_dump
+  24: git_filter_source_repo
+  25: git_midx_writer_dump
+  26: BaseThreadInitThunk
+  27: RtlUserThreadStart
+   4.168482900s  INFO prepare_target{force=false package_id=aws-lc-sys v0.35.0 target="build-script-main"}: cargo::core::compiler::fingerprint: fingerprint dirty for aws-lc-sys v0.35.0/Build/TargetInner { ..: custom_build_target("build-script-main", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\aws-lc-sys-0.35.0\\builder\\main.rs", Edition2021) }
+   4.168510300s  INFO prepare_target{force=false package_id=aws-lc-sys v0.35.0 target="build-script-main"}: cargo::core::compiler::fingerprint:     dirty: NothingObvious
+   4.254032700s  INFO prepare_target{force=false package_id=aws-lc-sys v0.35.0 target="aws_lc_sys"}: cargo::core::compiler::fingerprint: fingerprint error for aws-lc-sys v0.35.0/Check { test: false }/TargetInner { ..: lib_target("aws_lc_sys", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\aws-lc-sys-0.35.0\\src\\lib.rs", Edition2021) }
+   4.254069900s  INFO prepare_target{force=false package_id=aws-lc-sys v0.35.0 target="aws_lc_sys"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\aws-lc-sys-a1e5b8d4b53412ae\lib-aws_lc_sys`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_libgit2_prerelease
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: <unknown>
+  21: git_midx_writer_dump
+  22: git_filter_source_repo
+  23: git_midx_writer_dump
+  24: BaseThreadInitThunk
+  25: RtlUserThreadStart
+   4.280432100s  INFO prepare_target{force=false package_id=rustls v0.23.36 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint error for rustls v0.23.36/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rustls-0.23.36\\build.rs", Edition2021) }
+   4.280474500s  INFO prepare_target{force=false package_id=rustls v0.23.36 target="build-script-build"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\rustls-e228c73516452bd2\run-build-script-build-script-build`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_libgit2_prerelease
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: <unknown>
+  21: git_midx_writer_dump
+  22: git_filter_source_repo
+  23: git_midx_writer_dump
+  24: BaseThreadInitThunk
+  25: RtlUserThreadStart
+   4.287745600s  INFO prepare_target{force=false package_id=rustls v0.23.36 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for rustls v0.23.36/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rustls-0.23.36\\build.rs", Edition2021) }
+   4.287772500s  INFO prepare_target{force=false package_id=rustls v0.23.36 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\rustls-f88962ffb30fef17\\build_script_build-f88962ffb30fef17.exe" }))
+   4.319420900s  INFO prepare_target{force=false package_id=rustls-webpki v0.103.8 target="webpki"}: cargo::core::compiler::fingerprint: fingerprint error for rustls-webpki v0.103.8/Check { test: false }/TargetInner { ..: lib_target("webpki", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rustls-webpki-0.103.8\\src\\lib.rs", Edition2021) }
+   4.319462400s  INFO prepare_target{force=false package_id=rustls-webpki v0.103.8 target="webpki"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\rustls-webpki-5445f51b45d7c824\lib-webpki`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   4.330866100s  INFO prepare_target{force=false package_id=tokio-rustls v0.26.4 target="tokio_rustls"}: cargo::core::compiler::fingerprint: fingerprint error for tokio-rustls v0.26.4/Check { test: false }/TargetInner { ..: lib_target("tokio_rustls", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\tokio-rustls-0.26.4\\src\\lib.rs", Edition2021) }
+   4.330907700s  INFO prepare_target{force=false package_id=tokio-rustls v0.26.4 target="tokio_rustls"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\tokio-rustls-6c40698858ce502a\lib-tokio_rustls`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   4.337635600s  INFO prepare_target{force=false package_id=rustls-platform-verifier v0.6.2 target="rustls_platform_verifier"}: cargo::core::compiler::fingerprint: fingerprint error for rustls-platform-verifier v0.6.2/Check { test: false }/TargetInner { ..: lib_target("rustls_platform_verifier", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rustls-platform-verifier-0.6.2\\src\\lib.rs", Edition2021) }
+   4.337665600s  INFO prepare_target{force=false package_id=rustls-platform-verifier v0.6.2 target="rustls_platform_verifier"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\rustls-platform-verifier-268aca5f25766991\lib-rustls_platform_verifier`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   4.343490100s  INFO prepare_target{force=false package_id=serde_json v1.0.149 target="serde_json"}: cargo::core::compiler::fingerprint: fingerprint dirty for serde_json v1.0.149/Check { test: false }/TargetInner { ..: lib_target("serde_json", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\serde_json-1.0.149\\src\\lib.rs", Edition2021) }
+   4.343524000s  INFO prepare_target{force=false package_id=serde_json v1.0.149 target="serde_json"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(228) }
+   4.395078700s  INFO prepare_target{force=false package_id=serde_json v1.0.149 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for serde_json v1.0.149/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\serde_json-1.0.149\\build.rs", Edition2021) }
+   4.395131700s  INFO prepare_target{force=false package_id=serde_json v1.0.149 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalFingerprintTypeChanged { old: "rerun-if-changed", new: "precalculated" }
+   4.430560500s  INFO prepare_target{force=false package_id=zmij v1.0.13 target="zmij"}: cargo::core::compiler::fingerprint: fingerprint dirty for zmij v1.0.13/Check { test: false }/TargetInner { ..: lib_target("zmij", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zmij-1.0.13\\src\\lib.rs", Edition2021) }
+   4.430604600s  INFO prepare_target{force=false package_id=zmij v1.0.13 target="zmij"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDependency { unit: UnitIndex(379), dep_mtime: FileTime { seconds: 13420855718, nanos: 0 }, max_mtime: FileTime { seconds: 13420855602, nanos: 0 } })
+   4.531789700s  INFO prepare_target{force=false package_id=tower v0.5.2 target="tower"}: cargo::core::compiler::fingerprint: fingerprint dirty for tower v0.5.2/Check { test: false }/TargetInner { ..: lib_target("tower", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\tower-0.5.2\\src\\lib.rs", Edition2018) }
+   4.531842000s  INFO prepare_target{force=false package_id=tower v0.5.2 target="tower"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(257) })
+   4.563909800s  INFO prepare_target{force=false package_id=tower-http v0.6.8 target="tower_http"}: cargo::core::compiler::fingerprint: fingerprint dirty for tower-http v0.6.8/Check { test: false }/TargetInner { ..: lib_target("tower_http", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\tower-http-0.6.8\\src\\lib.rs", Edition2018) }
+   4.563960400s  INFO prepare_target{force=false package_id=tower-http v0.6.8 target="tower_http"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(264) })
+   4.606926400s  INFO prepare_target{force=false package_id=url v2.5.8 target="url"}: cargo::core::compiler::fingerprint: fingerprint dirty for url v2.5.8/Check { test: false }/TargetInner { ..: lib_target("url", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\url-2.5.8\\src\\lib.rs", Edition2018) }
+   4.606973000s  INFO prepare_target{force=false package_id=url v2.5.8 target="url"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(138) }
+   4.644564500s  INFO prepare_target{force=false package_id=idna v1.1.0 target="idna"}: cargo::core::compiler::fingerprint: fingerprint dirty for idna v1.1.0/Check { test: false }/TargetInner { doctest: false, ..: lib_target("idna", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\idna-1.1.0\\src\\lib.rs", Edition2018) }
+   4.644617400s  INFO prepare_target{force=false package_id=idna v1.1.0 target="idna"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(139) }
+   4.678606000s  INFO prepare_target{force=false package_id=idna_adapter v1.2.1 target="idna_adapter"}: cargo::core::compiler::fingerprint: fingerprint dirty for idna_adapter v1.2.1/Check { test: false }/TargetInner { ..: lib_target("idna_adapter", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\idna_adapter-1.2.1\\src\\lib.rs", Edition2021) }
+   4.678649700s  INFO prepare_target{force=false package_id=idna_adapter v1.2.1 target="idna_adapter"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(127) }
+   4.713710100s  INFO prepare_target{force=false package_id=icu_normalizer v2.1.1 target="icu_normalizer"}: cargo::core::compiler::fingerprint: fingerprint dirty for icu_normalizer v2.1.1/Check { test: false }/TargetInner { ..: lib_target("icu_normalizer", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\icu_normalizer-2.1.1\\src\\lib.rs", Edition2021) }
+   4.713751200s  INFO prepare_target{force=false package_id=icu_normalizer v2.1.1 target="icu_normalizer"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(128) }
+   4.744529900s  INFO prepare_target{force=false package_id=icu_collections v2.1.1 target="icu_collections"}: cargo::core::compiler::fingerprint: fingerprint dirty for icu_collections v2.1.1/Check { test: false }/TargetInner { benched: false, ..: lib_target("icu_collections", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\icu_collections-2.1.1\\src\\lib.rs", Edition2021) }
+   4.744577900s  INFO prepare_target{force=false package_id=icu_collections v2.1.1 target="icu_collections"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(365) })
+   4.784719500s  INFO prepare_target{force=false package_id=displaydoc v0.2.5 target="displaydoc"}: cargo::core::compiler::fingerprint: fingerprint dirty for displaydoc v0.2.5/Build/TargetInner { name_inferred: true, for_host: true, proc_macro: true, ..: lib_target("displaydoc", ["proc-macro"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\displaydoc-0.2.5\\src\\lib.rs", Edition2021) }
+   4.784759800s  INFO prepare_target{force=false package_id=displaydoc v0.2.5 target="displaydoc"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(238) })
+   4.839999800s  INFO prepare_target{force=false package_id=potential_utf v0.1.4 target="potential_utf"}: cargo::core::compiler::fingerprint: fingerprint dirty for potential_utf v0.1.4/Check { test: false }/TargetInner { ..: lib_target("potential_utf", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\potential_utf-0.1.4\\src\\lib.rs", Edition2021) }
+   4.840039700s  INFO prepare_target{force=false package_id=potential_utf v0.1.4 target="potential_utf"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(374) })
+   4.869622300s  INFO prepare_target{force=false package_id=zerovec v0.11.5 target="zerovec"}: cargo::core::compiler::fingerprint: fingerprint dirty for zerovec v0.11.5/Check { test: false }/TargetInner { benched: false, ..: lib_target("zerovec", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zerovec-0.11.5\\src\\lib.rs", Edition2021) }
+   4.869661700s  INFO prepare_target{force=false package_id=zerovec v0.11.5 target="zerovec"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(365) })
+   4.899462900s  INFO prepare_target{force=false package_id=yoke v0.8.1 target="yoke"}: cargo::core::compiler::fingerprint: fingerprint dirty for yoke v0.8.1/Check { test: false }/TargetInner { ..: lib_target("yoke", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\yoke-0.8.1\\src\\lib.rs", Edition2021) }
+   4.899511600s  INFO prepare_target{force=false package_id=yoke v0.8.1 target="yoke"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(366) })
+   4.939743800s  INFO prepare_target{force=false package_id=yoke-derive v0.8.1 target="yoke_derive"}: cargo::core::compiler::fingerprint: fingerprint dirty for yoke-derive v0.8.1/Build/TargetInner { for_host: true, proc_macro: true, ..: lib_target("yoke_derive", ["proc-macro"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\yoke-derive-0.8.1\\src\\lib.rs", Edition2021) }
+   4.939778900s  INFO prepare_target{force=false package_id=yoke-derive v0.8.1 target="yoke_derive"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(240) })
+   4.964574500s  INFO prepare_target{force=false package_id=synstructure v0.13.2 target="synstructure"}: cargo::core::compiler::fingerprint: fingerprint dirty for synstructure v0.13.2/Build/TargetInner { ..: lib_target("synstructure", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\synstructure-0.13.2\\src\\lib.rs", Edition2018) }
+   4.964619800s  INFO prepare_target{force=false package_id=synstructure v0.13.2 target="synstructure"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\deps\\libsynstructure-8788cf3fdae89c96.rlib" }))
+   4.999081000s  INFO prepare_target{force=false package_id=zerofrom v0.1.6 target="zerofrom"}: cargo::core::compiler::fingerprint: fingerprint dirty for zerofrom v0.1.6/Check { test: false }/TargetInner { ..: lib_target("zerofrom", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zerofrom-0.1.6\\src\\lib.rs", Edition2021) }
+   4.999115500s  INFO prepare_target{force=false package_id=zerofrom v0.1.6 target="zerofrom"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(371) })
+   5.038520200s  INFO prepare_target{force=false package_id=zerofrom-derive v0.1.6 target="zerofrom_derive"}: cargo::core::compiler::fingerprint: fingerprint dirty for zerofrom-derive v0.1.6/Build/TargetInner { for_host: true, proc_macro: true, ..: lib_target("zerofrom_derive", ["proc-macro"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zerofrom-derive-0.1.6\\src\\lib.rs", Edition2021) }
+   5.038556600s  INFO prepare_target{force=false package_id=zerofrom-derive v0.1.6 target="zerofrom_derive"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(240) })
+   5.075170400s  INFO prepare_target{force=false package_id=zerovec-derive v0.11.2 target="zerovec_derive"}: cargo::core::compiler::fingerprint: fingerprint dirty for zerovec-derive v0.11.2/Build/TargetInner { for_host: true, proc_macro: true, ..: lib_target("zerovec_derive", ["proc-macro"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zerovec-derive-0.11.2\\src\\lib.rs", Edition2021) }
+   5.075205000s  INFO prepare_target{force=false package_id=zerovec-derive v0.11.2 target="zerovec_derive"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(238) })
+   5.106367600s  INFO prepare_target{force=false package_id=icu_normalizer_data v2.1.1 target="icu_normalizer_data"}: cargo::core::compiler::fingerprint: fingerprint dirty for icu_normalizer_data v2.1.1/Check { test: false }/TargetInner { ..: lib_target("icu_normalizer_data", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\icu_normalizer_data-2.1.1\\src\\lib.rs", Edition2021) }
+   5.106412000s  INFO prepare_target{force=false package_id=icu_normalizer_data v2.1.1 target="icu_normalizer_data"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(130) }
+   5.162467000s  INFO prepare_target{force=false package_id=icu_normalizer_data v2.1.1 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for icu_normalizer_data v2.1.1/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\icu_normalizer_data-2.1.1\\build.rs", Edition2021) }
+   5.162515200s  INFO prepare_target{force=false package_id=icu_normalizer_data v2.1.1 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalFingerprintTypeChanged { old: "rerun-if-env-changed", new: "precalculated" }
+   5.196807900s  INFO prepare_target{force=false package_id=icu_normalizer_data v2.1.1 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for icu_normalizer_data v2.1.1/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\icu_normalizer_data-2.1.1\\build.rs", Edition2021) }
+   5.196848000s  INFO prepare_target{force=false package_id=icu_normalizer_data v2.1.1 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\icu_normalizer_data-9d6289e7ea6d035f\\build_script_build-9d6289e7ea6d035f.exe" }))
+   5.221155500s  INFO prepare_target{force=false package_id=icu_provider v2.1.1 target="icu_provider"}: cargo::core::compiler::fingerprint: fingerprint dirty for icu_provider v2.1.1/Check { test: false }/TargetInner { benched: false, ..: lib_target("icu_provider", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\icu_provider-2.1.1\\src\\lib.rs", Edition2021) }
+   5.221188800s  INFO prepare_target{force=false package_id=icu_provider v2.1.1 target="icu_provider"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(365) })
+   5.255358800s  INFO prepare_target{force=false package_id=icu_locale_core v2.1.1 target="icu_locale_core"}: cargo::core::compiler::fingerprint: fingerprint dirty for icu_locale_core v2.1.1/Check { test: false }/TargetInner { benched: false, ..: lib_target("icu_locale_core", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\icu_locale_core-2.1.1\\src\\lib.rs", Edition2021) }
+   5.255391000s  INFO prepare_target{force=false package_id=icu_locale_core v2.1.1 target="icu_locale_core"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(78) })
+   5.287680800s  INFO prepare_target{force=false package_id=tinystr v0.8.2 target="tinystr"}: cargo::core::compiler::fingerprint: fingerprint dirty for tinystr v0.8.2/Check { test: false }/TargetInner { benched: false, ..: lib_target("tinystr", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\tinystr-0.8.2\\src\\lib.rs", Edition2021) }
+   5.287720400s  INFO prepare_target{force=false package_id=tinystr v0.8.2 target="tinystr"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(78) })
+   5.325757400s  INFO prepare_target{force=false package_id=zerotrie v0.2.3 target="zerotrie"}: cargo::core::compiler::fingerprint: fingerprint dirty for zerotrie v0.2.3/Check { test: false }/TargetInner { benched: false, ..: lib_target("zerotrie", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zerotrie-0.2.3\\src\\lib.rs", Edition2021) }
+   5.325810700s  INFO prepare_target{force=false package_id=zerotrie v0.2.3 target="zerotrie"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(365) })
+   5.354629200s  INFO prepare_target{force=false package_id=icu_properties v2.1.2 target="icu_properties"}: cargo::core::compiler::fingerprint: fingerprint dirty for icu_properties v2.1.2/Check { test: false }/TargetInner { ..: lib_target("icu_properties", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\icu_properties-2.1.2\\src\\lib.rs", Edition2021) }
+   5.354670900s  INFO prepare_target{force=false package_id=icu_properties v2.1.2 target="icu_properties"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(132) }
+   5.380990300s  INFO prepare_target{force=false package_id=icu_properties_data v2.1.2 target="icu_properties_data"}: cargo::core::compiler::fingerprint: fingerprint dirty for icu_properties_data v2.1.2/Check { test: false }/TargetInner { ..: lib_target("icu_properties_data", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\icu_properties_data-2.1.2\\src\\lib.rs", Edition2021) }
+   5.381040900s  INFO prepare_target{force=false package_id=icu_properties_data v2.1.2 target="icu_properties_data"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(134) }
+   5.406385600s  INFO prepare_target{force=false package_id=icu_properties_data v2.1.2 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for icu_properties_data v2.1.2/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\icu_properties_data-2.1.2\\build.rs", Edition2021) }
+   5.406425100s  INFO prepare_target{force=false package_id=icu_properties_data v2.1.2 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalFingerprintTypeChanged { old: "rerun-if-env-changed", new: "precalculated" }
+   5.437614600s  INFO prepare_target{force=false package_id=icu_properties_data v2.1.2 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for icu_properties_data v2.1.2/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\icu_properties_data-2.1.2\\build.rs", Edition2021) }
+   5.437651500s  INFO prepare_target{force=false package_id=icu_properties_data v2.1.2 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\icu_properties_data-9f1f867e7e6e6482\\build_script_build-9f1f867e7e6e6482.exe" }))
+   5.466639300s  INFO prepare_target{force=false package_id=walrus v0.24.4 target="walrus"}: cargo::core::compiler::fingerprint: fingerprint dirty for walrus v0.24.4/Check { test: false }/TargetInner { benched: false, ..: lib_target("walrus", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\walrus-0.24.4\\src\\lib.rs", Edition2021) }
+   5.466680700s  INFO prepare_target{force=false package_id=walrus v0.24.4 target="walrus"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(107) }
+   5.495437100s  INFO prepare_target{force=false package_id=gimli v0.26.2 target="gimli"}: cargo::core::compiler::fingerprint: fingerprint dirty for gimli v0.26.2/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("gimli", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\gimli-0.26.2\\src\\lib.rs", Edition2018) }
+   5.495492000s  INFO prepare_target{force=false package_id=gimli v0.26.2 target="gimli"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(140) }
+   5.520467700s  INFO prepare_target{force=false package_id=indexmap v1.9.3 target="indexmap"}: cargo::core::compiler::fingerprint: fingerprint dirty for indexmap v1.9.3/Check { test: false }/TargetInner { name_inferred: true, benched: false, ..: lib_target("indexmap", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\indexmap-1.9.3\\src\\lib.rs", Edition2021) }
+   5.520513600s  INFO prepare_target{force=false package_id=indexmap v1.9.3 target="indexmap"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(142) }
+   5.568440700s  INFO prepare_target{force=false package_id=indexmap v1.9.3 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for indexmap v1.9.3/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\indexmap-1.9.3\\build.rs", Edition2021) }
+   5.568481300s  INFO prepare_target{force=false package_id=indexmap v1.9.3 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalFingerprintTypeChanged { old: "rerun-if-changed", new: "precalculated" }
+   5.587349400s  INFO prepare_target{force=false package_id=indexmap v1.9.3 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for indexmap v1.9.3/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\indexmap-1.9.3\\build.rs", Edition2021) }
+   5.587396100s  INFO prepare_target{force=false package_id=indexmap v1.9.3 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\indexmap-e10feeb1a61746ff\\build_script_build-e10feeb1a61746ff.exe" }))
+   5.607325600s  INFO prepare_target{force=false package_id=walrus-macro v0.24.0 target="walrus_macro"}: cargo::core::compiler::fingerprint: fingerprint dirty for walrus-macro v0.24.0/Build/TargetInner { for_host: true, proc_macro: true, ..: lib_target("walrus_macro", ["proc-macro"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\walrus-macro-0.24.0\\src\\lib.rs", Edition2021) }
+   5.607365600s  INFO prepare_target{force=false package_id=walrus-macro v0.24.0 target="walrus_macro"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(238) })
+   5.631438500s  INFO prepare_target{force=false package_id=wasm-encoder v0.240.0 target="wasm_encoder"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasm-encoder v0.240.0/Check { test: false }/TargetInner { ..: lib_target("wasm_encoder", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasm-encoder-0.240.0\\src\\lib.rs", Edition2021) }
+   5.631481700s  INFO prepare_target{force=false package_id=wasm-encoder v0.240.0 target="wasm_encoder"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(288) })
+   5.661975300s  INFO prepare_target{force=false package_id=wasm-encoder v0.240.0 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasm-encoder v0.240.0/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasm-encoder-0.240.0\\build.rs", Edition2021) }
+   5.662026200s  INFO prepare_target{force=false package_id=wasm-encoder v0.240.0 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\wasm-encoder-bf02c4635ee7a295\\output" }))
+   5.681418800s  INFO prepare_target{force=false package_id=wasm-encoder v0.240.0 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasm-encoder v0.240.0/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasm-encoder-0.240.0\\build.rs", Edition2021) }
+   5.681458800s  INFO prepare_target{force=false package_id=wasm-encoder v0.240.0 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\wasm-encoder-880a029b7583ef47\\build_script_build-880a029b7583ef47.exe" }))
+   5.697680300s  INFO prepare_target{force=false package_id=wasmparser v0.240.0 target="wasmparser"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmparser v0.240.0/Check { test: false }/TargetInner { ..: lib_target("wasmparser", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmparser-0.240.0\\src\\lib.rs", Edition2021) }
+   5.697735000s  INFO prepare_target{force=false package_id=wasmparser v0.240.0 target="wasmparser"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(295) })
+   5.706539200s  INFO prepare_target{force=false package_id=hashbrown v0.15.5 target="hashbrown"}: cargo::core::compiler::fingerprint: fingerprint dirty for hashbrown v0.15.5/Check { test: false }/TargetInner { ..: lib_target("hashbrown", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\hashbrown-0.15.5\\src\\lib.rs", Edition2021) }
+   5.706580400s  INFO prepare_target{force=false package_id=hashbrown v0.15.5 target="hashbrown"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(215) })
+   5.744839300s  INFO prepare_target{force=false package_id=wasmparser v0.240.0 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmparser v0.240.0/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmparser-0.240.0\\build.rs", Edition2021) }
+   5.744888900s  INFO prepare_target{force=false package_id=wasmparser v0.240.0 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\wasmparser-537eb5b1fafbc712\\output" }))
+   5.772716800s  INFO prepare_target{force=false package_id=wasmparser v0.240.0 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmparser v0.240.0/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmparser-0.240.0\\build.rs", Edition2021) }
+   5.772761500s  INFO prepare_target{force=false package_id=wasmparser v0.240.0 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\wasmparser-92e3cc6e892d62f6\\build_script_build-92e3cc6e892d62f6.exe" }))
+   5.782072000s  INFO prepare_target{force=false package_id=wasmprinter v0.244.0 target="wasmprinter"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmprinter v0.244.0/Check { test: false }/TargetInner { ..: lib_target("wasmprinter", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmprinter-0.244.0\\src\\lib.rs", Edition2021) }
+   5.782120800s  INFO prepare_target{force=false package_id=wasmprinter v0.244.0 target="wasmprinter"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDependency { unit: UnitIndex(8), dep_mtime: FileTime { seconds: 13420855716, nanos: 0 }, max_mtime: FileTime { seconds: 13420855626, nanos: 0 } })
+   5.799650000s  INFO prepare_target{force=false package_id=wasmparser v0.244.0 target="wasmparser"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmparser v0.244.0/Check { test: false }/TargetInner { ..: lib_target("wasmparser", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmparser-0.244.0\\src\\lib.rs", Edition2021) }
+   5.799694000s  INFO prepare_target{force=false package_id=wasmparser v0.244.0 target="wasmparser"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDependency { unit: UnitIndex(213), dep_mtime: FileTime { seconds: 13420855720, nanos: 0 }, max_mtime: FileTime { seconds: 13420855614, nanos: 0 } })
+   5.814331000s  INFO prepare_target{force=false package_id=wasmtime v40.0.4 target="wasmtime"}: cargo::core::compiler::fingerprint: fingerprint error for wasmtime v40.0.4/Check { test: false }/TargetInner { ..: lib_target("wasmtime", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-40.0.4\\src\\lib.rs", Edition2024) }
+   5.814378900s  INFO prepare_target{force=false package_id=wasmtime v40.0.4 target="wasmtime"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\wasmtime-2ed7101013038ab4\lib-wasmtime`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   5.818926500s  INFO prepare_target{force=false package_id=async-trait v0.1.89 target="async_trait"}: cargo::core::compiler::fingerprint: fingerprint error for async-trait v0.1.89/Build/TargetInner { for_host: true, proc_macro: true, ..: lib_target("async_trait", ["proc-macro"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\async-trait-0.1.89\\src\\lib.rs", Edition2021) }
+   5.818955700s  INFO prepare_target{force=false package_id=async-trait v0.1.89 target="async_trait"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\async-trait-b1ec792c83623013\lib-async_trait`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   5.844840100s  INFO prepare_target{force=false package_id=object v0.37.3 target="object"}: cargo::core::compiler::fingerprint: fingerprint dirty for object v0.37.3/Check { test: false }/TargetInner { ..: lib_target("object", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\object-0.37.3\\src\\lib.rs", Edition2018) }
+   5.844890500s  INFO prepare_target{force=false package_id=object v0.37.3 target="object"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(111) })
+   5.915211900s  INFO prepare_target{force=false package_id=object v0.37.3 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for object v0.37.3/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\object-0.37.3\\build.rs", Edition2018) }
+   5.915263600s  INFO prepare_target{force=false package_id=object v0.37.3 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\object-c7b7cb3bd4303759\\output" }))
+   5.997413100s  INFO prepare_target{force=false package_id=object v0.37.3 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for object v0.37.3/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\object-0.37.3\\build.rs", Edition2018) }
+   5.997528200s  INFO prepare_target{force=false package_id=object v0.37.3 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\object-327ab9739cfbee1d\\build_script_build-327ab9739cfbee1d.exe" }))
+   6.030924500s  INFO prepare_target{force=false package_id=postcard v1.1.3 target="postcard"}: cargo::core::compiler::fingerprint: fingerprint dirty for postcard v1.1.3/Check { test: false }/TargetInner { ..: lib_target("postcard", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\postcard-1.1.3\\src\\lib.rs", Edition2021) }
+   6.030974500s  INFO prepare_target{force=false package_id=postcard v1.1.3 target="postcard"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(47) }
+   6.065580300s  INFO prepare_target{force=false package_id=cobs v0.3.0 target="cobs"}: cargo::core::compiler::fingerprint: fingerprint dirty for cobs v0.3.0/Check { test: false }/TargetInner { ..: lib_target("cobs", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cobs-0.3.0\\src\\lib.rs", Edition2021) }
+   6.065629900s  INFO prepare_target{force=false package_id=cobs v0.3.0 target="cobs"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(251) }
+   6.125928100s  INFO prepare_target{force=false package_id=thiserror v2.0.17 target="thiserror"}: cargo::core::compiler::fingerprint: fingerprint dirty for thiserror v2.0.17/Check { test: false }/TargetInner { ..: lib_target("thiserror", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\thiserror-2.0.17\\src\\lib.rs", Edition2021) }
+   6.125977900s  INFO prepare_target{force=false package_id=thiserror v2.0.17 target="thiserror"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(253) }
+   6.165405100s  INFO prepare_target{force=false package_id=thiserror v2.0.17 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for thiserror v2.0.17/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\thiserror-2.0.17\\build.rs", Edition2021) }
+   6.165448200s  INFO prepare_target{force=false package_id=thiserror v2.0.17 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalFingerprintTypeChanged { old: "rerun-if-changed", new: "precalculated" }
+   6.182989900s  INFO prepare_target{force=false package_id=thiserror v2.0.17 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for thiserror v2.0.17/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\thiserror-2.0.17\\build.rs", Edition2021) }
+   6.183028800s  INFO prepare_target{force=false package_id=thiserror v2.0.17 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: NothingObvious
+   6.260733100s  INFO prepare_target{force=false package_id=thiserror-impl v2.0.17 target="thiserror_impl"}: cargo::core::compiler::fingerprint: fingerprint dirty for thiserror-impl v2.0.17/Build/TargetInner { for_host: true, proc_macro: true, ..: lib_target("thiserror_impl", ["proc-macro"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\thiserror-impl-2.0.17\\src\\lib.rs", Edition2021) }
+   6.260788200s  INFO prepare_target{force=false package_id=thiserror-impl v2.0.17 target="thiserror_impl"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(238) })
+   6.318072000s  INFO prepare_target{force=false package_id=pulley-interpreter v40.0.4 target="pulley_interpreter"}: cargo::core::compiler::fingerprint: fingerprint dirty for pulley-interpreter v40.0.4/Check { test: false }/TargetInner { ..: lib_target("pulley_interpreter", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\pulley-interpreter-40.0.4\\src\\lib.rs", Edition2024) }
+   6.318124000s  INFO prepare_target{force=false package_id=pulley-interpreter v40.0.4 target="pulley_interpreter"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(56) })
+   6.335747700s  INFO prepare_target{force=false package_id=cranelift-bitset v0.127.4 target="cranelift_bitset"}: cargo::core::compiler::fingerprint: fingerprint dirty for cranelift-bitset v0.127.4/Check { test: false }/TargetInner { ..: lib_target("cranelift_bitset", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cranelift-bitset-0.127.4\\src\\lib.rs", Edition2024) }
+   6.335783300s  INFO prepare_target{force=false package_id=cranelift-bitset v0.127.4 target="cranelift_bitset"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(224) })
+   6.393850400s  INFO prepare_target{force=false package_id=pulley-macros v40.0.4 target="pulley_macros"}: cargo::core::compiler::fingerprint: fingerprint dirty for pulley-macros v40.0.4/Build/TargetInner { for_host: true, proc_macro: true, ..: lib_target("pulley_macros", ["proc-macro"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\pulley-macros-40.0.4\\src\\lib.rs", Edition2024) }
+   6.393900700s  INFO prepare_target{force=false package_id=pulley-macros v40.0.4 target="pulley_macros"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(238) })
+   6.456047300s  INFO prepare_target{force=false package_id=target-lexicon v0.13.4 target="target_lexicon"}: cargo::core::compiler::fingerprint: fingerprint dirty for target-lexicon v0.13.4/Check { test: false }/TargetInner { ..: lib_target("target_lexicon", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\target-lexicon-0.13.4\\src\\lib.rs", Edition2018) }
+   6.456084700s  INFO prepare_target{force=false package_id=target-lexicon v0.13.4 target="target_lexicon"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDependency { unit: UnitIndex(246), dep_mtime: FileTime { seconds: 13420855726, nanos: 0 }, max_mtime: FileTime { seconds: 13420855226, nanos: 0 } })
+   6.508247900s  INFO prepare_target{force=false package_id=wasmparser v0.243.0 target="wasmparser"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmparser v0.243.0/Check { test: false }/TargetInner { ..: lib_target("wasmparser", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmparser-0.243.0\\src\\lib.rs", Edition2021) }
+   6.508283200s  INFO prepare_target{force=false package_id=wasmparser v0.243.0 target="wasmparser"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(301) })
+   6.553512100s  INFO prepare_target{force=false package_id=wasmparser v0.243.0 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmparser v0.243.0/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmparser-0.243.0\\build.rs", Edition2021) }
+   6.553548700s  INFO prepare_target{force=false package_id=wasmparser v0.243.0 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\wasmparser-9d6b29e54bbcb78d\\output" }))
+   6.605659400s  INFO prepare_target{force=false package_id=wasmparser v0.243.0 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmparser v0.243.0/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmparser-0.243.0\\build.rs", Edition2021) }
+   6.605695700s  INFO prepare_target{force=false package_id=wasmparser v0.243.0 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\wasmparser-728173b07e1c3bdc\\build_script_build-728173b07e1c3bdc.exe" }))
+   6.682498300s  INFO prepare_target{force=false package_id=wasmtime v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime v40.0.4/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-40.0.4\\build.rs", Edition2024) }
+   6.682543400s  INFO prepare_target{force=false package_id=wasmtime v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalFingerprintTypeChanged { old: "rerun-if-changed", new: "precalculated" }
+   6.724741100s  INFO prepare_target{force=false package_id=wasmtime v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime v40.0.4/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-40.0.4\\build.rs", Edition2024) }
+   6.724781200s  INFO prepare_target{force=false package_id=wasmtime v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\wasmtime-117a7905e705513c\\build_script_build-117a7905e705513c.exe" }))
+   6.784921700s  INFO prepare_target{force=false package_id=wasmtime-internal-versioned-export-macros v40.0.4 target="wasmtime_internal_versioned_export_macros"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime-internal-versioned-export-macros v40.0.4/Build/TargetInner { for_host: true, proc_macro: true, ..: lib_target("wasmtime_internal_versioned_export_macros", ["proc-macro"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-versioned-export-macros-40.0.4\\src\\lib.rs", Edition2024) }
+   6.784976400s  INFO prepare_target{force=false package_id=wasmtime-internal-versioned-export-macros v40.0.4 target="wasmtime_internal_versioned_export_macros"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(238) })
+   6.843812000s  INFO prepare_target{force=false package_id=wasmtime-environ v40.0.4 target="wasmtime_environ"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime-environ v40.0.4/Check { test: false }/TargetInner { ..: lib_target("wasmtime_environ", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-environ-40.0.4\\src\\lib.rs", Edition2024) }
+   6.843860100s  INFO prepare_target{force=false package_id=wasmtime-environ v40.0.4 target="wasmtime_environ"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(183) }
+   6.900439400s  INFO prepare_target{force=false package_id=cranelift-entity v0.127.4 target="cranelift_entity"}: cargo::core::compiler::fingerprint: fingerprint dirty for cranelift-entity v0.127.4/Check { test: false }/TargetInner { ..: lib_target("cranelift_entity", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cranelift-entity-0.127.4\\src\\lib.rs", Edition2024) }
+   6.900485800s  INFO prepare_target{force=false package_id=cranelift-entity v0.127.4 target="cranelift_entity"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(56) })
+   6.962799900s  INFO prepare_target{force=false package_id=gimli v0.32.3 target="gimli"}: cargo::core::compiler::fingerprint: fingerprint dirty for gimli v0.32.3/Check { test: false }/TargetInner { ..: lib_target("gimli", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\gimli-0.32.3\\src\\lib.rs", Edition2018) }
+   6.962859100s  INFO prepare_target{force=false package_id=gimli v0.32.3 target="gimli"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDependency { unit: UnitIndex(144), dep_mtime: FileTime { seconds: 13420855720, nanos: 0 }, max_mtime: FileTime { seconds: 13420855254, nanos: 0 } })
+   7.040181000s  INFO prepare_target{force=false package_id=wasm-encoder v0.243.0 target="wasm_encoder"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasm-encoder v0.243.0/Check { test: false }/TargetInner { ..: lib_target("wasm_encoder", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasm-encoder-0.243.0\\src\\lib.rs", Edition2021) }
+   7.040224600s  INFO prepare_target{force=false package_id=wasm-encoder v0.243.0 target="wasm_encoder"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(291) })
+   7.123018400s  INFO prepare_target{force=false package_id=wasm-encoder v0.243.0 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasm-encoder v0.243.0/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasm-encoder-0.243.0\\build.rs", Edition2021) }
+   7.123057300s  INFO prepare_target{force=false package_id=wasm-encoder v0.243.0 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\wasm-encoder-80f4de09c4d14c7c\\output" }))
+   7.246037300s  INFO prepare_target{force=false package_id=wasm-encoder v0.243.0 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasm-encoder v0.243.0/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasm-encoder-0.243.0\\build.rs", Edition2021) }
+   7.246079200s  INFO prepare_target{force=false package_id=wasm-encoder v0.243.0 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\wasm-encoder-6175930c0142ffc0\\build_script_build-6175930c0142ffc0.exe" }))
+   7.305585000s  INFO prepare_target{force=false package_id=wasmprinter v0.243.0 target="wasmprinter"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmprinter v0.243.0/Check { test: false }/TargetInner { ..: lib_target("wasmprinter", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmprinter-0.243.0\\src\\lib.rs", Edition2021) }
+   7.305622300s  INFO prepare_target{force=false package_id=wasmprinter v0.243.0 target="wasmprinter"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDependency { unit: UnitIndex(8), dep_mtime: FileTime { seconds: 13420855716, nanos: 0 }, max_mtime: FileTime { seconds: 13420855424, nanos: 0 } })
+   7.449137000s  INFO prepare_target{force=false package_id=wasmtime-internal-cache v40.0.4 target="wasmtime_internal_cache"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime-internal-cache v40.0.4/Check { test: false }/TargetInner { ..: lib_target("wasmtime_internal_cache", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-cache-40.0.4\\src\\lib.rs", Edition2024) }
+   7.449180600s  INFO prepare_target{force=false package_id=wasmtime-internal-cache v40.0.4 target="wasmtime_internal_cache"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(76) }
+   7.505584500s  INFO prepare_target{force=false package_id=directories-next v2.0.0 target="directories_next"}: cargo::core::compiler::fingerprint: fingerprint dirty for directories-next v2.0.0/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("directories_next", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\directories-next-2.0.0\\src\\lib.rs", Edition2018) }
+   7.505624400s  INFO prepare_target{force=false package_id=directories-next v2.0.0 target="directories_next"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(77) }
+   7.592546800s  INFO prepare_target{force=false package_id=dirs-sys-next v0.1.2 target="dirs_sys_next"}: cargo::core::compiler::fingerprint: fingerprint dirty for dirs-sys-next v0.1.2/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("dirs_sys_next", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\dirs-sys-next-0.1.2\\src\\lib.rs", Edition2018) }
+   7.592593500s  INFO prepare_target{force=false package_id=dirs-sys-next v0.1.2 target="dirs_sys_next"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(339) }
+   7.647297500s  INFO prepare_target{force=false package_id=winapi v0.3.9 target="winapi"}: cargo::core::compiler::fingerprint: fingerprint dirty for winapi v0.3.9/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("winapi", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\winapi-0.3.9\\src\\lib.rs", Edition2015) }
+   7.647351800s  INFO prepare_target{force=false package_id=winapi v0.3.9 target="winapi"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(341) }
+   7.766569400s  INFO prepare_target{force=false package_id=winapi v0.3.9 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for winapi v0.3.9/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\winapi-0.3.9\\build.rs", Edition2015) }
+   7.766609800s  INFO prepare_target{force=false package_id=winapi v0.3.9 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalLengthsChanged
+   7.825612400s  INFO prepare_target{force=false package_id=winapi v0.3.9 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for winapi v0.3.9/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\winapi-0.3.9\\build.rs", Edition2015) }
+   7.825652100s  INFO prepare_target{force=false package_id=winapi v0.3.9 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\winapi-3ae5a410c16dc6e0\\build_script_build-3ae5a410c16dc6e0.exe" }))
+   7.895015400s  INFO prepare_target{force=false package_id=sha2 v0.10.9 target="sha2"}: cargo::core::compiler::fingerprint: fingerprint dirty for sha2 v0.10.9/Check { test: false }/TargetInner { ..: lib_target("sha2", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\sha2-0.10.9\\src\\lib.rs", Edition2018) }
+   7.895066700s  INFO prepare_target{force=false package_id=sha2 v0.10.9 target="sha2"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(75) }
+   7.983221000s  INFO prepare_target{force=false package_id=digest v0.10.7 target="digest"}: cargo::core::compiler::fingerprint: fingerprint dirty for digest v0.10.7/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("digest", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\digest-0.10.7\\src\\lib.rs", Edition2018) }
+   7.983269400s  INFO prepare_target{force=false package_id=digest v0.10.7 target="digest"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(74) }
+   8.034148500s  INFO prepare_target{force=false package_id=block-buffer v0.10.4 target="block_buffer"}: cargo::core::compiler::fingerprint: fingerprint dirty for block-buffer v0.10.4/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("block_buffer", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\block-buffer-0.10.4\\src\\lib.rs", Edition2018) }
+   8.034196300s  INFO prepare_target{force=false package_id=block-buffer v0.10.4 target="block_buffer"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(100) }
+   8.171205900s  INFO prepare_target{force=false package_id=generic-array v0.14.7 target="generic_array"}: cargo::core::compiler::fingerprint: fingerprint dirty for generic-array v0.14.7/Check { test: false }/TargetInner { ..: lib_target("generic_array", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\generic-array-0.14.7\\src\\lib.rs", Edition2015) }
+   8.171246300s  INFO prepare_target{force=false package_id=generic-array v0.14.7 target="generic_array"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(272) }
+   8.372012400s  INFO prepare_target{force=false package_id=typenum v1.19.0 target="typenum"}: cargo::core::compiler::fingerprint: fingerprint dirty for typenum v1.19.0/Check { test: false }/TargetInner { ..: lib_target("typenum", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\typenum-1.19.0\\src\\lib.rs", Edition2018) }
+   8.372060200s  INFO prepare_target{force=false package_id=typenum v1.19.0 target="typenum"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(274) }
+   8.512724300s  INFO prepare_target{force=false package_id=typenum v1.19.0 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for typenum v1.19.0/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\typenum-1.19.0\\build.rs", Edition2018) }
+   8.512774900s  INFO prepare_target{force=false package_id=typenum v1.19.0 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalFingerprintTypeChanged { old: "rerun-if-changed", new: "precalculated" }
+   8.578020400s  INFO prepare_target{force=false package_id=typenum v1.19.0 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for typenum v1.19.0/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\typenum-1.19.0\\build.rs", Edition2018) }
+   8.578083200s  INFO prepare_target{force=false package_id=typenum v1.19.0 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: NothingObvious
+   8.697817000s  INFO prepare_target{force=false package_id=crypto-common v0.1.7 target="crypto_common"}: cargo::core::compiler::fingerprint: fingerprint dirty for crypto-common v0.1.7/Check { test: false }/TargetInner { ..: lib_target("crypto_common", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\crypto-common-0.1.7\\src\\lib.rs", Edition2018) }
+   8.697862000s  INFO prepare_target{force=false package_id=crypto-common v0.1.7 target="crypto_common"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(272) }
+   8.722955500s  INFO prepare_target{force=false package_id=toml v0.9.11+spec-1.1.0 target="toml"}: cargo::core::compiler::fingerprint: fingerprint dirty for toml v0.9.11+spec-1.1.0/Check { test: false }/TargetInner { ..: lib_target("toml", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\toml-0.9.11+spec-1.1.0\\src\\lib.rs", Edition2021) }
+   8.723005900s  INFO prepare_target{force=false package_id=toml v0.9.11+spec-1.1.0 target="toml"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(261) })
+   8.807730700s  INFO prepare_target{force=false package_id=serde_spanned v1.0.4 target="serde_spanned"}: cargo::core::compiler::fingerprint: fingerprint dirty for serde_spanned v1.0.4/Check { test: false }/TargetInner { ..: lib_target("serde_spanned", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\serde_spanned-1.0.4\\src\\lib.rs", Edition2021) }
+   8.807766400s  INFO prepare_target{force=false package_id=serde_spanned v1.0.4 target="serde_spanned"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDependency { unit: UnitIndex(221), dep_mtime: FileTime { seconds: 13420855714, nanos: 0 }, max_mtime: FileTime { seconds: 13420855428, nanos: 0 } })
+   8.874633000s  INFO prepare_target{force=false package_id=toml_datetime v0.7.5+spec-1.1.0 target="toml_datetime"}: cargo::core::compiler::fingerprint: fingerprint dirty for toml_datetime v0.7.5+spec-1.1.0/Check { test: false }/TargetInner { ..: lib_target("toml_datetime", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\toml_datetime-0.7.5+spec-1.1.0\\src\\lib.rs", Edition2021) }
+   8.874671900s  INFO prepare_target{force=false package_id=toml_datetime v0.7.5+spec-1.1.0 target="toml_datetime"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDependency { unit: UnitIndex(221), dep_mtime: FileTime { seconds: 13420855714, nanos: 0 }, max_mtime: FileTime { seconds: 13420855430, nanos: 0 } })
+   9.067539900s  INFO prepare_target{force=false package_id=wasmtime-internal-cache v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime-internal-cache v40.0.4/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-cache-40.0.4\\build.rs", Edition2024) }
+   9.067583400s  INFO prepare_target{force=false package_id=wasmtime-internal-cache v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\wasmtime-internal-cache-7911d104925fbc1a\\output" }))
+   9.198863800s  INFO prepare_target{force=false package_id=wasmtime-internal-cache v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime-internal-cache v40.0.4/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-cache-40.0.4\\build.rs", Edition2024) }
+   9.198905200s  INFO prepare_target{force=false package_id=wasmtime-internal-cache v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\wasmtime-internal-cache-ce84ef7257837aca\\build_script_build-ce84ef7257837aca.exe" }))
+   9.299710400s  INFO prepare_target{force=false package_id=zstd v0.13.3 target="zstd"}: cargo::core::compiler::fingerprint: fingerprint dirty for zstd v0.13.3/Check { test: false }/TargetInner { ..: lib_target("zstd", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zstd-0.13.3\\src\\lib.rs", Edition2018) }
+   9.299764400s  INFO prepare_target{force=false package_id=zstd v0.13.3 target="zstd"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(381) }
+   9.429027300s  INFO prepare_target{force=false package_id=zstd-safe v7.2.4 target="zstd_safe"}: cargo::core::compiler::fingerprint: fingerprint dirty for zstd-safe v7.2.4/Check { test: false }/TargetInner { ..: lib_target("zstd_safe", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zstd-safe-7.2.4\\src\\lib.rs", Edition2018) }
+   9.429077000s  INFO prepare_target{force=false package_id=zstd-safe v7.2.4 target="zstd_safe"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(384) }
+   9.531131200s  INFO prepare_target{force=false package_id=zstd-safe v7.2.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for zstd-safe v7.2.4/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zstd-safe-7.2.4\\build.rs", Edition2018) }
+   9.531175800s  INFO prepare_target{force=false package_id=zstd-safe v7.2.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(386) }
+   9.631086300s  INFO prepare_target{force=false package_id=zstd-safe v7.2.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for zstd-safe v7.2.4/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zstd-safe-7.2.4\\build.rs", Edition2018) }
+   9.631129700s  INFO prepare_target{force=false package_id=zstd-safe v7.2.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\zstd-safe-bae78a1911695203\\build_script_build-bae78a1911695203.exe" }))
+   9.827695400s  INFO prepare_target{force=false package_id=zstd-sys v2.0.16+zstd.1.5.7 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for zstd-sys v2.0.16+zstd.1.5.7/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zstd-sys-2.0.16+zstd.1.5.7\\build.rs", Edition2018) }
+   9.827742800s  INFO prepare_target{force=false package_id=zstd-sys v2.0.16+zstd.1.5.7 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalLengthsChanged
+   9.888620500s  INFO prepare_target{force=false package_id=zstd-sys v2.0.16+zstd.1.5.7 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for zstd-sys v2.0.16+zstd.1.5.7/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zstd-sys-2.0.16+zstd.1.5.7\\build.rs", Edition2018) }
+   9.888657400s  INFO prepare_target{force=false package_id=zstd-sys v2.0.16+zstd.1.5.7 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\zstd-sys-834a7394aa8f098d\\build_script_build-834a7394aa8f098d.exe" }))
+   9.980537300s  INFO prepare_target{force=false package_id=zstd-sys v2.0.16+zstd.1.5.7 target="zstd_sys"}: cargo::core::compiler::fingerprint: fingerprint dirty for zstd-sys v2.0.16+zstd.1.5.7/Check { test: false }/TargetInner { doctest: false, ..: lib_target("zstd_sys", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zstd-sys-2.0.16+zstd.1.5.7\\src\\lib.rs", Edition2018) }
+   9.980582000s  INFO prepare_target{force=false package_id=zstd-sys v2.0.16+zstd.1.5.7 target="zstd_sys"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(386) }
+  10.011267200s  INFO prepare_target{force=false package_id=wasmtime-internal-component-macro v40.0.4 target="wasmtime_internal_component_macro"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime-internal-component-macro v40.0.4/Build/TargetInner { tested: false, doctest: false, for_host: true, proc_macro: true, ..: lib_target("wasmtime_internal_component_macro", ["proc-macro"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-component-macro-40.0.4\\src\\lib.rs", Edition2024) }
+  10.011322800s  INFO prepare_target{force=false package_id=wasmtime-internal-component-macro v40.0.4 target="wasmtime_internal_component_macro"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(362) }
+  10.019083900s  INFO prepare_target{force=false package_id=anyhow v1.0.100 target="anyhow"}: cargo::core::compiler::fingerprint: fingerprint dirty for anyhow v1.0.100/Build/TargetInner { ..: lib_target("anyhow", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\anyhow-1.0.100\\src\\lib.rs", Edition2018) }
+  10.019130200s  INFO prepare_target{force=false package_id=anyhow v1.0.100 target="anyhow"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDependency { unit: UnitIndex(10), dep_mtime: FileTime { seconds: 13420855712, nanos: 0 }, max_mtime: FileTime { seconds: 13420855328, nanos: 0 } })
+  10.331890800s  INFO prepare_target{force=false package_id=wasmtime-internal-component-macro v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime-internal-component-macro v40.0.4/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-component-macro-40.0.4\\build.rs", Edition2024) }
+  10.331941000s  INFO prepare_target{force=false package_id=wasmtime-internal-component-macro v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalFingerprintTypeChanged { old: "rerun-if-changed", new: "precalculated" }
+  10.392176800s  INFO prepare_target{force=false package_id=wasmtime-internal-component-macro v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime-internal-component-macro v40.0.4/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-component-macro-40.0.4\\build.rs", Edition2024) }
+  10.392221800s  INFO prepare_target{force=false package_id=wasmtime-internal-component-macro v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\wasmtime-internal-component-macro-606f50457db9b96f\\build_script_build-606f50457db9b96f.exe" }))
+  10.463675100s  INFO prepare_target{force=false package_id=wasmtime-internal-wit-bindgen v40.0.4 target="wasmtime_internal_wit_bindgen"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime-internal-wit-bindgen v40.0.4/Build/TargetInner { ..: lib_target("wasmtime_internal_wit_bindgen", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-wit-bindgen-40.0.4\\src\\lib.rs", Edition2024) }
+  10.463729800s  INFO prepare_target{force=false package_id=wasmtime-internal-wit-bindgen v40.0.4 target="wasmtime_internal_wit_bindgen"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(362) }
+  10.517564000s  INFO prepare_target{force=false package_id=indexmap v2.13.0 target="indexmap"}: cargo::core::compiler::fingerprint: fingerprint dirty for indexmap v2.13.0/Build/TargetInner { benched: false, ..: lib_target("indexmap", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\indexmap-2.13.0\\src\\lib.rs", Edition2021) }
+  10.517615100s  INFO prepare_target{force=false package_id=indexmap v2.13.0 target="indexmap"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(220) })
+  10.583519600s  INFO prepare_target{force=false package_id=serde_core v1.0.228 target="serde_core"}: cargo::core::compiler::fingerprint: fingerprint dirty for serde_core v1.0.228/Build/TargetInner { ..: lib_target("serde_core", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\serde_core-1.0.228\\src\\lib.rs", Edition2021) }
+  10.583568000s  INFO prepare_target{force=false package_id=serde_core v1.0.228 target="serde_core"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDependency { unit: UnitIndex(223), dep_mtime: FileTime { seconds: 13420855712, nanos: 0 }, max_mtime: FileTime { seconds: 13420855270, nanos: 0 } })
+  10.629323600s  INFO prepare_target{force=false package_id=wit-parser v0.243.0 target="wit_parser"}: cargo::core::compiler::fingerprint: fingerprint dirty for wit-parser v0.243.0/Build/TargetInner { ..: lib_target("wit_parser", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wit-parser-0.243.0\\src\\lib.rs", Edition2021) }
+  10.629376200s  INFO prepare_target{force=false package_id=wit-parser v0.243.0 target="wit_parser"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(214) }
+  10.718539700s  INFO prepare_target{force=false package_id=serde v1.0.228 target="serde"}: cargo::core::compiler::fingerprint: fingerprint dirty for serde v1.0.228/Build/TargetInner { ..: lib_target("serde", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\serde-1.0.228\\src\\lib.rs", Edition2021) }
+  10.718594600s  INFO prepare_target{force=false package_id=serde v1.0.228 target="serde"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(216) }
+  10.778095900s  INFO prepare_target{force=false package_id=serde v1.0.228 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for serde v1.0.228/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\serde-1.0.228\\build.rs", Edition2021) }
+  10.778140700s  INFO prepare_target{force=false package_id=serde v1.0.228 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalFingerprintTypeChanged { old: "rerun-if-changed", new: "precalculated" }
+  10.820786300s  INFO prepare_target{force=false package_id=serde v1.0.228 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for serde v1.0.228/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\serde-1.0.228\\build.rs", Edition2021) }
+  10.820877000s  INFO prepare_target{force=false package_id=serde v1.0.228 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\serde-683b91ebd220659f\\build_script_build-683b91ebd220659f.exe" }))
+  10.884156100s  INFO prepare_target{force=false package_id=serde_json v1.0.149 target="serde_json"}: cargo::core::compiler::fingerprint: fingerprint dirty for serde_json v1.0.149/Build/TargetInner { ..: lib_target("serde_json", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\serde_json-1.0.149\\src\\lib.rs", Edition2021) }
+  10.884204200s  INFO prepare_target{force=false package_id=serde_json v1.0.149 target="serde_json"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(228) }
+  10.963281200s  INFO prepare_target{force=false package_id=zmij v1.0.13 target="zmij"}: cargo::core::compiler::fingerprint: fingerprint dirty for zmij v1.0.13/Build/TargetInner { ..: lib_target("zmij", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zmij-1.0.13\\src\\lib.rs", Edition2021) }
+  10.963393900s  INFO prepare_target{force=false package_id=zmij v1.0.13 target="zmij"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDependency { unit: UnitIndex(379), dep_mtime: FileTime { seconds: 13420855718, nanos: 0 }, max_mtime: FileTime { seconds: 13420855358, nanos: 0 } })
+  10.997374200s  INFO prepare_target{force=false package_id=wasmparser v0.243.0 target="wasmparser"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmparser v0.243.0/Build/TargetInner { ..: lib_target("wasmparser", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmparser-0.243.0\\src\\lib.rs", Edition2021) }
+  10.997420100s  INFO prepare_target{force=false package_id=wasmparser v0.243.0 target="wasmparser"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(298) })
+  11.076025200s  INFO prepare_target{force=false package_id=wasmparser v0.243.0 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmparser v0.243.0/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmparser-0.243.0\\build.rs", Edition2021) }
+  11.076089500s  INFO prepare_target{force=false package_id=wasmparser v0.243.0 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\wasmparser-e2273548395b56d6\\output" }))
+  11.211644700s  INFO prepare_target{force=false package_id=wasmparser v0.243.0 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmparser v0.243.0/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmparser-0.243.0\\build.rs", Edition2021) }
+  11.211688100s  INFO prepare_target{force=false package_id=wasmparser v0.243.0 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\wasmparser-a40b24968f10610a\\build_script_build-a40b24968f10610a.exe" }))
+  11.270176800s  INFO prepare_target{force=false package_id=wasmtime-internal-cranelift v40.0.4 target="wasmtime_internal_cranelift"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime-internal-cranelift v40.0.4/Check { test: false }/TargetInner { ..: lib_target("wasmtime_internal_cranelift", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-cranelift-40.0.4\\src\\lib.rs", Edition2024) }
+  11.270215200s  INFO prepare_target{force=false package_id=wasmtime-internal-cranelift v40.0.4 target="wasmtime_internal_cranelift"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(251) }
+  11.444699500s  INFO prepare_target{force=false package_id=cranelift-codegen v0.127.4 target="cranelift_codegen"}: cargo::core::compiler::fingerprint: fingerprint dirty for cranelift-codegen v0.127.4/Check { test: false }/TargetInner { ..: lib_target("cranelift_codegen", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cranelift-codegen-0.127.4\\src\\lib.rs", Edition2024) }
+  11.444738200s  INFO prepare_target{force=false package_id=cranelift-codegen v0.127.4 target="cranelift_codegen"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(190) })
+  11.581594700s  INFO prepare_target{force=false package_id=cranelift-bforest v0.127.4 target="cranelift_bforest"}: cargo::core::compiler::fingerprint: fingerprint dirty for cranelift-bforest v0.127.4/Check { test: false }/TargetInner { ..: lib_target("cranelift_bforest", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cranelift-bforest-0.127.4\\src\\lib.rs", Edition2024) }
+  11.581629500s  INFO prepare_target{force=false package_id=cranelift-bforest v0.127.4 target="cranelift_bforest"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(64) })
+  11.645811300s  INFO prepare_target{force=false package_id=cranelift-codegen v0.127.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for cranelift-codegen v0.127.4/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cranelift-codegen-0.127.4\\build.rs", Edition2024) }
+  11.645863000s  INFO prepare_target{force=false package_id=cranelift-codegen v0.127.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(58) })
+  11.674280000s  INFO prepare_target{force=false package_id=cranelift-codegen v0.127.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for cranelift-codegen v0.127.4/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cranelift-codegen-0.127.4\\build.rs", Edition2024) }
+  11.674325200s  INFO prepare_target{force=false package_id=cranelift-codegen v0.127.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(60) })
+  11.702348000s  INFO prepare_target{force=false package_id=cranelift-codegen-meta v0.127.4 target="cranelift_codegen_meta"}: cargo::core::compiler::fingerprint: fingerprint dirty for cranelift-codegen-meta v0.127.4/Build/TargetInner { ..: lib_target("cranelift_codegen_meta", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cranelift-codegen-meta-0.127.4\\src\\lib.rs", Edition2024) }
+  11.702395100s  INFO prepare_target{force=false package_id=cranelift-codegen-meta v0.127.4 target="cranelift_codegen_meta"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(189) })
+  11.768190600s  INFO prepare_target{force=false package_id=pulley-interpreter v40.0.4 target="pulley_interpreter"}: cargo::core::compiler::fingerprint: fingerprint dirty for pulley-interpreter v40.0.4/Build/TargetInner { ..: lib_target("pulley_interpreter", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\pulley-interpreter-40.0.4\\src\\lib.rs", Edition2024) }
+  11.768226100s  INFO prepare_target{force=false package_id=pulley-interpreter v40.0.4 target="pulley_interpreter"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(191) })
+  11.872811500s  INFO prepare_target{force=false package_id=regalloc2 v0.13.5 target="regalloc2"}: cargo::core::compiler::fingerprint: fingerprint dirty for regalloc2 v0.13.5/Check { test: false }/TargetInner { ..: lib_target("regalloc2", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\regalloc2-0.13.5\\src\\lib.rs", Edition2018) }
+  11.872850500s  INFO prepare_target{force=false package_id=regalloc2 v0.13.5 target="regalloc2"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(233) })
+  11.929276500s  INFO prepare_target{force=false package_id=cranelift-frontend v0.127.4 target="cranelift_frontend"}: cargo::core::compiler::fingerprint: fingerprint dirty for cranelift-frontend v0.127.4/Check { test: false }/TargetInner { ..: lib_target("cranelift_frontend", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cranelift-frontend-0.127.4\\src\\lib.rs", Edition2024) }
+  11.929313200s  INFO prepare_target{force=false package_id=cranelift-frontend v0.127.4 target="cranelift_frontend"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(233) })
+  11.992057800s  INFO prepare_target{force=false package_id=cranelift-native v0.127.4 target="cranelift_native"}: cargo::core::compiler::fingerprint: fingerprint dirty for cranelift-native v0.127.4/Check { test: false }/TargetInner { ..: lib_target("cranelift_native", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cranelift-native-0.127.4\\src\\lib.rs", Edition2024) }
+  11.992095000s  INFO prepare_target{force=false package_id=cranelift-native v0.127.4 target="cranelift_native"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(244) })
+  12.060229100s  INFO prepare_target{force=false package_id=wasmtime-internal-unwinder v40.0.4 target="wasmtime_internal_unwinder"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime-internal-unwinder v40.0.4/Check { test: false }/TargetInner { ..: lib_target("wasmtime_internal_unwinder", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-unwinder-40.0.4\\src\\lib.rs", Edition2024) }
+  12.060278100s  INFO prepare_target{force=false package_id=wasmtime-internal-unwinder v40.0.4 target="wasmtime_internal_unwinder"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDependency { unit: UnitIndex(8), dep_mtime: FileTime { seconds: 13420855716, nanos: 0 }, max_mtime: FileTime { seconds: 13420855454, nanos: 0 } })
+  12.122882900s  INFO prepare_target{force=false package_id=wasmtime-internal-unwinder v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime-internal-unwinder v40.0.4/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-unwinder-40.0.4\\build.rs", Edition2024) }
+  12.122931400s  INFO prepare_target{force=false package_id=wasmtime-internal-unwinder v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\wasmtime-internal-unwinder-689422cdab8ae6cc\\output" }))
+  12.169736300s  INFO prepare_target{force=false package_id=wasmtime-internal-unwinder v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime-internal-unwinder v40.0.4/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-unwinder-40.0.4\\build.rs", Edition2024) }
+  12.169778600s  INFO prepare_target{force=false package_id=wasmtime-internal-unwinder v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\wasmtime-internal-unwinder-f58fa2d9d5159d49\\build_script_build-f58fa2d9d5159d49.exe" }))
+  12.228443800s  INFO prepare_target{force=false package_id=wasmtime-internal-fiber v40.0.4 target="wasmtime_internal_fiber"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime-internal-fiber v40.0.4/Check { test: false }/TargetInner { ..: lib_target("wasmtime_internal_fiber", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-fiber-40.0.4\\src\\lib.rs", Edition2024) }
+  12.228493200s  INFO prepare_target{force=false package_id=wasmtime-internal-fiber v40.0.4 target="wasmtime_internal_fiber"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(320) }
+  12.296571300s  INFO prepare_target{force=false package_id=wasmtime-internal-fiber v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime-internal-fiber v40.0.4/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-fiber-40.0.4\\build.rs", Edition2024) }
+  12.296614300s  INFO prepare_target{force=false package_id=wasmtime-internal-fiber v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalLengthsChanged
+  12.344469100s  INFO prepare_target{force=false package_id=wasmtime-internal-fiber v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime-internal-fiber v40.0.4/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-fiber-40.0.4\\build.rs", Edition2024) }
+  12.344518500s  INFO prepare_target{force=false package_id=wasmtime-internal-fiber v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\wasmtime-internal-fiber-8504f49c009da539\\build_script_build-8504f49c009da539.exe" }))
+  12.403530200s  INFO prepare_target{force=false package_id=wasmtime-internal-jit-icache-coherence v40.0.4 target="wasmtime_internal_jit_icache_coherence"}: cargo::core::compiler::fingerprint: fingerprint dirty for wasmtime-internal-jit-icache-coherence v40.0.4/Check { test: false }/TargetInner { ..: lib_target("wasmtime_internal_jit_icache_coherence", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-internal-jit-icache-coherence-40.0.4\\src\\lib.rs", Edition2024) }
+  12.403572000s  INFO prepare_target{force=false package_id=wasmtime-internal-jit-icache-coherence v40.0.4 target="wasmtime_internal_jit_icache_coherence"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDependency { unit: UnitIndex(8), dep_mtime: FileTime { seconds: 13420855716, nanos: 0 }, max_mtime: FileTime { seconds: 13420855496, nanos: 0 } })
+  12.463004100s  INFO prepare_target{force=false package_id=wasmtime-wasi v40.0.4 target="wasmtime_wasi"}: cargo::core::compiler::fingerprint: fingerprint error for wasmtime-wasi v40.0.4/Check { test: false }/TargetInner { ..: lib_target("wasmtime_wasi", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-wasi-40.0.4\\src\\lib.rs", Edition2024) }
+  12.463051100s  INFO prepare_target{force=false package_id=wasmtime-wasi v40.0.4 target="wasmtime_wasi"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\wasmtime-wasi-0c13aac5f1b1dade\lib-wasmtime_wasi`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+  12.467513300s  INFO prepare_target{force=false package_id=cap-fs-ext v3.4.5 target="cap_fs_ext"}: cargo::core::compiler::fingerprint: fingerprint error for cap-fs-ext v3.4.5/Check { test: false }/TargetInner { ..: lib_target("cap_fs_ext", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cap-fs-ext-3.4.5\\src\\lib.rs", Edition2021) }
+  12.467546400s  INFO prepare_target{force=false package_id=cap-fs-ext v3.4.5 target="cap_fs_ext"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\cap-fs-ext-ad7fb95e62703142\lib-cap_fs_ext`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+  12.487324400s  INFO prepare_target{force=false package_id=cap-fs-ext v3.4.5 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint error for cap-fs-ext v3.4.5/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cap-fs-ext-3.4.5\\build.rs", Edition2021) }
+  12.487353800s  INFO prepare_target{force=false package_id=cap-fs-ext v3.4.5 target="build-script-build"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\cap-fs-ext-773c3180302604a7\run-build-script-build-script-build`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+  12.489898500s  INFO prepare_target{force=false package_id=cap-fs-ext v3.4.5 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint error for cap-fs-ext v3.4.5/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cap-fs-ext-3.4.5\\build.rs", Edition2021) }
+  12.489914300s  INFO prepare_target{force=false package_id=cap-fs-ext v3.4.5 target="build-script-build"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\cap-fs-ext-ecabb4a6735fb010\build-script-build-script-build`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+  12.494323200s  INFO prepare_target{force=false package_id=cap-primitives v3.4.5 target="cap_primitives"}: cargo::core::compiler::fingerprint: fingerprint dirty for cap-primitives v3.4.5/Check { test: false }/TargetInner { ..: lib_target("cap_primitives", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cap-primitives-3.4.5\\src\\lib.rs", Edition2021) }
+  12.494359800s  INFO prepare_target{force=false package_id=cap-primitives v3.4.5 target="cap_primitives"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(91) }
+  12.568382800s  INFO prepare_target{force=false package_id=fs-set-times v0.20.3 target="fs_set_times"}: cargo::core::compiler::fingerprint: fingerprint dirty for fs-set-times v0.20.3/Check { test: false }/TargetInner { ..: lib_target("fs_set_times", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\fs-set-times-0.20.3\\src\\lib.rs", Edition2021) }
+  12.568421300s  INFO prepare_target{force=false package_id=fs-set-times v0.20.3 target="fs_set_times"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(148) }
+  12.590821600s  INFO prepare_target{force=false package_id=io-lifetimes v2.0.4 target="io_lifetimes"}: cargo::core::compiler::fingerprint: fingerprint dirty for io-lifetimes v2.0.4/Check { test: false }/TargetInner { ..: lib_target("io_lifetimes", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\io-lifetimes-2.0.4\\src\\lib.rs", Edition2021) }
+  12.590862800s  INFO prepare_target{force=false package_id=io-lifetimes v2.0.4 target="io_lifetimes"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(150) }
+  12.659352000s  INFO prepare_target{force=false package_id=io-lifetimes v2.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for io-lifetimes v2.0.4/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\io-lifetimes-2.0.4\\build.rs", Edition2021) }
+  12.659401200s  INFO prepare_target{force=false package_id=io-lifetimes v2.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalFingerprintTypeChanged { old: "rerun-if-changed", new: "precalculated" }
+  12.713408400s  INFO prepare_target{force=false package_id=io-lifetimes v2.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for io-lifetimes v2.0.4/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\io-lifetimes-2.0.4\\build.rs", Edition2021) }
+  12.713450400s  INFO prepare_target{force=false package_id=io-lifetimes v2.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: NothingObvious
+  12.765509100s  INFO prepare_target{force=false package_id=io-extras v0.18.4 target="io_extras"}: cargo::core::compiler::fingerprint: fingerprint dirty for io-extras v0.18.4/Check { test: false }/TargetInner { ..: lib_target("io_extras", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\io-extras-0.18.4\\src\\lib.rs", Edition2021) }
+  12.765551100s  INFO prepare_target{force=false package_id=io-extras v0.18.4 target="io_extras"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(148) }
+  12.802834200s  INFO prepare_target{force=false package_id=io-extras v0.18.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for io-extras v0.18.4/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\io-extras-0.18.4\\build.rs", Edition2021) }
+  12.802870800s  INFO prepare_target{force=false package_id=io-extras v0.18.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalFingerprintTypeChanged { old: "rerun-if-changed", new: "precalculated" }
+  12.871973100s  INFO prepare_target{force=false package_id=io-extras v0.18.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for io-extras v0.18.4/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\io-extras-0.18.4\\build.rs", Edition2021) }
+  12.872014000s  INFO prepare_target{force=false package_id=io-extras v0.18.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\io-extras-5e4bea0090173cce\\build_script_build-5e4bea0090173cce.exe" }))
+  12.882417400s  INFO prepare_target{force=false package_id=winx v0.36.4 target="winx"}: cargo::core::compiler::fingerprint: fingerprint dirty for winx v0.36.4/Check { test: false }/TargetInner { ..: lib_target("winx", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\winx-0.36.4\\src\\lib.rs", Edition2021) }
+  12.882460500s  INFO prepare_target{force=false package_id=winx v0.36.4 target="winx"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDependency { unit: UnitIndex(349), dep_mtime: FileTime { seconds: 13420855722, nanos: 0 }, max_mtime: FileTime { seconds: 13420855404, nanos: 0 } })
+  12.939700500s  INFO prepare_target{force=false package_id=cap-std v3.4.5 target="cap_std"}: cargo::core::compiler::fingerprint: fingerprint dirty for cap-std v3.4.5/Check { test: false }/TargetInner { ..: lib_target("cap_std", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cap-std-3.4.5\\src\\lib.rs", Edition2021) }
+  12.939747200s  INFO prepare_target{force=false package_id=cap-std v3.4.5 target="cap_std"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(31) }
+  13.021375700s  INFO prepare_target{force=false package_id=cap-net-ext v3.4.5 target="cap_net_ext"}: cargo::core::compiler::fingerprint: fingerprint dirty for cap-net-ext v3.4.5/Check { test: false }/TargetInner { ..: lib_target("cap_net_ext", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cap-net-ext-3.4.5\\src\\lib.rs", Edition2021) }
+  13.021422700s  INFO prepare_target{force=false package_id=cap-net-ext v3.4.5 target="cap_net_ext"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(31) }
+  13.055584400s  INFO prepare_target{force=false package_id=rustix v1.1.3 target="rustix"}: cargo::core::compiler::fingerprint: fingerprint dirty for rustix v1.1.3/Check { test: false }/TargetInner { ..: lib_target("rustix", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rustix-1.1.3\\src\\lib.rs", Edition2021) }
+  13.055626400s  INFO prepare_target{force=false package_id=rustix v1.1.3 target="rustix"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(205) }
+  13.127483100s  INFO prepare_target{force=false package_id=rustix v1.1.3 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for rustix v1.1.3/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rustix-1.1.3\\build.rs", Edition2021) }
+  13.127558500s  INFO prepare_target{force=false package_id=rustix v1.1.3 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalLengthsChanged
+  13.173524800s  INFO prepare_target{force=false package_id=rustix v1.1.3 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for rustix v1.1.3/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rustix-1.1.3\\build.rs", Edition2021) }
+  13.173561300s  INFO prepare_target{force=false package_id=rustix v1.1.3 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\rustix-78a025bc425b2872\\build_script_build-78a025bc425b2872.exe" }))
+  13.230731400s  INFO prepare_target{force=false package_id=cap-rand v3.4.5 target="cap_rand"}: cargo::core::compiler::fingerprint: fingerprint dirty for cap-rand v3.4.5/Check { test: false }/TargetInner { ..: lib_target("cap_rand", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cap-rand-3.4.5\\src\\lib.rs", Edition2021) }
+  13.230784400s  INFO prepare_target{force=false package_id=cap-rand v3.4.5 target="cap_rand"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(195) }
+  13.289617900s  INFO prepare_target{force=false package_id=rand v0.8.5 target="rand"}: cargo::core::compiler::fingerprint: fingerprint dirty for rand v0.8.5/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("rand", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rand-0.8.5\\src\\lib.rs", Edition2018) }
+  13.289655900s  INFO prepare_target{force=false package_id=rand v0.8.5 target="rand"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(196) }
+  13.347993700s  INFO prepare_target{force=false package_id=rand_chacha v0.3.1 target="rand_chacha"}: cargo::core::compiler::fingerprint: fingerprint dirty for rand_chacha v0.3.1/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("rand_chacha", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rand_chacha-0.3.1\\src\\lib.rs", Edition2018) }
+  13.348039700s  INFO prepare_target{force=false package_id=rand_chacha v0.3.1 target="rand_chacha"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(185) }
+  13.415448000s  INFO prepare_target{force=false package_id=ppv-lite86 v0.2.21 target="ppv_lite86"}: cargo::core::compiler::fingerprint: fingerprint dirty for ppv-lite86 v0.2.21/Check { test: false }/TargetInner { ..: lib_target("ppv_lite86", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\ppv-lite86-0.2.21\\src\\lib.rs", Edition2021) }
+  13.415499500s  INFO prepare_target{force=false package_id=ppv-lite86 v0.2.21 target="ppv_lite86"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(367) }
+  13.426866000s  INFO prepare_target{force=false package_id=zerocopy v0.8.33 target="zerocopy"}: cargo::core::compiler::fingerprint: fingerprint dirty for zerocopy v0.8.33/Check { test: false }/TargetInner { ..: lib_target("zerocopy", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zerocopy-0.8.33\\src\\lib.rs", Edition2021) }
+  13.426916800s  INFO prepare_target{force=false package_id=zerocopy v0.8.33 target="zerocopy"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(369) }
+  13.459600200s  INFO prepare_target{force=false package_id=zerocopy v0.8.33 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for zerocopy v0.8.33/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zerocopy-0.8.33\\build.rs", Edition2021) }
+  13.459654700s  INFO prepare_target{force=false package_id=zerocopy v0.8.33 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalFingerprintTypeChanged { old: "rerun-if-changed", new: "precalculated" }
+  13.501946100s  INFO prepare_target{force=false package_id=zerocopy v0.8.33 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for zerocopy v0.8.33/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zerocopy-0.8.33\\build.rs", Edition2021) }
+  13.501985200s  INFO prepare_target{force=false package_id=zerocopy v0.8.33 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\zerocopy-9fac0e1476c25c1a\\build_script_build-9fac0e1476c25c1a.exe" }))
+  13.591638700s  INFO prepare_target{force=false package_id=cap-time-ext v3.4.5 target="cap_time_ext"}: cargo::core::compiler::fingerprint: fingerprint dirty for cap-time-ext v3.4.5/Check { test: false }/TargetInner { ..: lib_target("cap_time_ext", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cap-time-ext-3.4.5\\src\\lib.rs", Edition2021) }
+  13.591685400s  INFO prepare_target{force=false package_id=cap-time-ext v3.4.5 target="cap_time_ext"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(31) }
+  13.626127800s  INFO prepare_target{force=false package_id=iana-time-zone v0.1.64 target="iana_time_zone"}: cargo::core::compiler::fingerprint: fingerprint dirty for iana-time-zone v0.1.64/Check { test: false }/TargetInner { ..: lib_target("iana_time_zone", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\iana-time-zone-0.1.64\\src\\lib.rs", Edition2021) }
+  13.626166100s  INFO prepare_target{force=false package_id=iana-time-zone v0.1.64 target="iana_time_zone"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(343) })
+  13.697394500s  INFO prepare_target{force=false package_id=windows-core v0.62.2 target="windows_core"}: cargo::core::compiler::fingerprint: fingerprint dirty for windows-core v0.62.2/Check { test: false }/TargetInner { ..: lib_target("windows_core", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\windows-core-0.62.2\\src\\lib.rs", Edition2021) }
+  13.697439500s  INFO prepare_target{force=false package_id=windows-core v0.62.2 target="windows_core"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(344) })
+  13.760127400s  INFO prepare_target{force=false package_id=windows-implement v0.60.2 target="windows_implement"}: cargo::core::compiler::fingerprint: fingerprint dirty for windows-implement v0.60.2/Build/TargetInner { for_host: true, proc_macro: true, ..: lib_target("windows_implement", ["proc-macro"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\windows-implement-0.60.2\\src\\lib.rs", Edition2021) }
+  13.760175100s  INFO prepare_target{force=false package_id=windows-implement v0.60.2 target="windows_implement"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(238) })
+  13.817412800s  INFO prepare_target{force=false package_id=windows-interface v0.59.3 target="windows_interface"}: cargo::core::compiler::fingerprint: fingerprint dirty for windows-interface v0.59.3/Build/TargetInner { for_host: true, proc_macro: true, ..: lib_target("windows_interface", ["proc-macro"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\windows-interface-0.59.3\\src\\lib.rs", Edition2021) }
+  13.817454800s  INFO prepare_target{force=false package_id=windows-interface v0.59.3 target="windows_interface"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(238) })
+  13.878792200s  INFO prepare_target{force=false package_id=system-interface v0.27.3 target="system_interface"}: cargo::core::compiler::fingerprint: fingerprint error for system-interface v0.27.3/Check { test: false }/TargetInner { ..: lib_target("system_interface", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\system-interface-0.27.3\\src\\lib.rs", Edition2021) }
+  13.878834600s  INFO prepare_target{force=false package_id=system-interface v0.27.3 target="system_interface"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\system-interface-495af41ad6accb5c\lib-system_interface`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+  13.887481400s  INFO prepare_target{force=false package_id=fd-lock v4.0.4 target="fd_lock"}: cargo::core::compiler::fingerprint: fingerprint dirty for fd-lock v4.0.4/Check { test: false }/TargetInner { ..: lib_target("fd_lock", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\fd-lock-4.0.4\\src\\lib.rs", Edition2021) }
+  13.887530800s  INFO prepare_target{force=false package_id=fd-lock v4.0.4 target="fd_lock"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDependency { unit: UnitIndex(349), dep_mtime: FileTime { seconds: 13420855722, nanos: 0 }, max_mtime: FileTime { seconds: 13420855602, nanos: 0 } })
+  13.942145500s  INFO prepare_target{force=false package_id=system-interface v0.27.3 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for system-interface v0.27.3/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\system-interface-0.27.3\\build.rs", Edition2021) }
+  13.942181700s  INFO prepare_target{force=false package_id=system-interface v0.27.3 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalFingerprintTypeChanged { old: "rerun-if-changed", new: "precalculated" }
+  13.967869700s  INFO prepare_target{force=false package_id=system-interface v0.27.3 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for system-interface v0.27.3/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\system-interface-0.27.3\\build.rs", Edition2021) }
+  13.967909600s  INFO prepare_target{force=false package_id=system-interface v0.27.3 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\system-interface-8fd8b41abb61e891\\build_script_build-8fd8b41abb61e891.exe" }))
+  13.988534500s  INFO prepare_target{force=false package_id=wasmtime-wasi-io v40.0.4 target="wasmtime_wasi_io"}: cargo::core::compiler::fingerprint: fingerprint error for wasmtime-wasi-io v40.0.4/Check { test: false }/TargetInner { ..: lib_target("wasmtime_wasi_io", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wasmtime-wasi-io-40.0.4\\src\\lib.rs", Edition2024) }
+  13.988570900s  INFO prepare_target{force=false package_id=wasmtime-wasi-io v40.0.4 target="wasmtime_wasi_io"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\wasmtime-wasi-io-c37beeadf16ff7a9\lib-wasmtime_wasi_io`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+  13.993609000s  INFO prepare_target{force=false package_id=wiggle v40.0.4 target="wiggle"}: cargo::core::compiler::fingerprint: fingerprint error for wiggle v40.0.4/Check { test: false }/TargetInner { ..: lib_target("wiggle", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wiggle-40.0.4\\src\\lib.rs", Edition2024) }
+  13.993635600s  INFO prepare_target{force=false package_id=wiggle v40.0.4 target="wiggle"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\wiggle-536a315117127d01\lib-wiggle`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+  13.998460800s  INFO prepare_target{force=false package_id=wiggle-macro v40.0.4 target="wiggle_macro"}: cargo::core::compiler::fingerprint: fingerprint error for wiggle-macro v40.0.4/Build/TargetInner { tested: false, doctest: false, for_host: true, proc_macro: true, ..: lib_target("wiggle_macro", ["proc-macro"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wiggle-macro-40.0.4\\src\\lib.rs", Edition2024) }
+  13.998493900s  INFO prepare_target{force=false package_id=wiggle-macro v40.0.4 target="wiggle_macro"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\wiggle-macro-4ca9ad8d2f0936f9\lib-wiggle_macro`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+  14.007269000s  INFO prepare_target{force=false package_id=wiggle-generate v40.0.4 target="wiggle_generate"}: cargo::core::compiler::fingerprint: fingerprint dirty for wiggle-generate v40.0.4/Build/TargetInner { ..: lib_target("wiggle_generate", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wiggle-generate-40.0.4\\src\\lib.rs", Edition2024) }
+  14.007299300s  INFO prepare_target{force=false package_id=wiggle-generate v40.0.4 target="wiggle_generate"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(363) }
+  14.024187700s  INFO prepare_target{force=false package_id=witx v0.9.1 target="witx"}: cargo::core::compiler::fingerprint: fingerprint dirty for witx v0.9.1/Build/TargetInner { name_inferred: true, ..: lib_target("witx", ["rlib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\witx-0.9.1\\src\\lib.rs", Edition2018) }
+  14.024236700s  INFO prepare_target{force=false package_id=witx v0.9.1 target="witx"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(248) }
+  14.115125800s  INFO prepare_target{force=false package_id=thiserror v1.0.69 target="thiserror"}: cargo::core::compiler::fingerprint: fingerprint dirty for thiserror v1.0.69/Build/TargetInner { ..: lib_target("thiserror", ["lib"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\thiserror-1.0.69\\src\\lib.rs", Edition2021) }
+  14.115174700s  INFO prepare_target{force=false package_id=thiserror v1.0.69 target="thiserror"}: cargo::core::compiler::fingerprint:     dirty: UnitDependencyInfoChanged { unit: UnitIndex(249) }
+  14.192287400s  INFO prepare_target{force=false package_id=thiserror v1.0.69 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for thiserror v1.0.69/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\thiserror-1.0.69\\build.rs", Edition2021) }
+  14.192355300s  INFO prepare_target{force=false package_id=thiserror v1.0.69 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: LocalFingerprintTypeChanged { old: "rerun-if-changed", new: "precalculated" }
+  14.248912400s  INFO prepare_target{force=false package_id=thiserror v1.0.69 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint dirty for thiserror v1.0.69/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\thiserror-1.0.69\\build.rs", Edition2021) }
+  14.248953700s  INFO prepare_target{force=false package_id=thiserror v1.0.69 target="build-script-build"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(FailedToReadMetadata { path: "D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\target\\debug\\build\\thiserror-83c827a4f6cce979\\build_script_build-83c827a4f6cce979.exe" }))
+  14.283077600s  INFO prepare_target{force=false package_id=thiserror-impl v1.0.69 target="thiserror_impl"}: cargo::core::compiler::fingerprint: fingerprint dirty for thiserror-impl v1.0.69/Build/TargetInner { for_host: true, proc_macro: true, ..: lib_target("thiserror_impl", ["proc-macro"], "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\thiserror-impl-1.0.69\\src\\lib.rs", Edition2021) }
+  14.283119100s  INFO prepare_target{force=false package_id=thiserror-impl v1.0.69 target="thiserror_impl"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(238) })
+  14.343030900s  INFO prepare_target{force=false package_id=wiggle-macro v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint error for wiggle-macro v40.0.4/RunCustomBuild/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wiggle-macro-40.0.4\\build.rs", Edition2024) }
+  14.343064100s  INFO prepare_target{force=false package_id=wiggle-macro v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\wiggle-macro-2d6cb35a10ce0d3f\run-build-script-build-script-build`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_libgit2_prerelease
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: <unknown>
+  21: git_midx_writer_dump
+  22: git_filter_source_repo
+  23: git_midx_writer_dump
+  24: BaseThreadInitThunk
+  25: RtlUserThreadStart
+  14.347096500s  INFO prepare_target{force=false package_id=wiggle-macro v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint: fingerprint error for wiggle-macro v40.0.4/Build/TargetInner { ..: custom_build_target("build-script-build", "C:\\Users\\Jmarcum\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wiggle-macro-40.0.4\\build.rs", Edition2024) }
+  14.347125600s  INFO prepare_target{force=false package_id=wiggle-macro v40.0.4 target="build-script-build"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\wiggle-macro-33eb666472f66fa8\build-script-build-script-build`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_libgit2_prerelease
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: <unknown>
+  21: git_midx_writer_dump
+  22: git_filter_source_repo
+  23: git_midx_writer_dump
+  24: BaseThreadInitThunk
+  25: RtlUserThreadStart
+  14.376112000s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint: fingerprint error for rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk)/Check { test: true }/TargetInner { name: "rsxtk", doc: true, ..: with_path("D:\\Programs\\_ProgramExamples\\Example_Programs\\Rust\\rsxtk\\rsxtk\\src\\main.rs", Edition2024) }
+  14.376150300s  INFO prepare_target{force=false package_id=rsxtk v0.4.3 (D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk) target="rsxtk"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\.fingerprint\rsxtk-8005081486062939\test-bin-rsxtk`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   Compiling syn v2.0.114
+   Compiling typenum v1.19.0
+    Checking socket2 v0.6.1
+   Compiling aws-lc-sys v0.35.0
+   Compiling io-lifetimes v2.0.4
+   Compiling thiserror v2.0.17
+   Compiling serde_json v1.0.149
+   Compiling zstd-sys v2.0.16+zstd.1.5.7
+    Checking tokio v1.49.0
+   Compiling synstructure v0.13.2
+error: could not compile `io-lifetimes` (build script) due to 1 previous error
+warning: build failed, waiting for other jobs to finish...
+    Checking target-lexicon v0.13.4
+    Checking gimli v0.32.3
+   Compiling anyhow v1.0.100
+   Compiling serde_core v1.0.228
+    Checking generic-array v0.14.7
+warning: aws-lc-sys@0.35.0: Emitting configuration: cargo:rustc-cfg=universal
+warning: aws-lc-sys@0.35.0: NASM command not found or failed to execute.
+warning: aws-lc-sys@0.35.0: NASM command not found or failed to execute.
+error: failed to run custom build command for `aws-lc-sys v0.35.0`
+note: To improve backtraces for build dependencies, set the CARGO_PROFILE_DEV_BUILD_OVERRIDE_DEBUG=true environment variable to enable debug information generation.
+
+Caused by:
+  process didn't exit successfully: `D:\Programs\_ProgramExamples\Example_Programs\Rust\rsxtk\rsxtk\target\debug\build\aws-lc-sys-17c66a48aff44de2\build-script-main` (exit code: 101)
+  --- stdout
+  cargo:rerun-if-env-changed=AWS_LC_SYS_NO_PREFIX_x86_64_pc_windows_msvc
+  cargo:rerun-if-env-changed=AWS_LC_SYS_NO_PREFIX
+  cargo:rerun-if-env-changed=AWS_LC_SYS_PREGENERATING_BINDINGS_x86_64_pc_windows_msvc
+  cargo:rerun-if-env-changed=AWS_LC_SYS_PREGENERATING_BINDINGS
+  cargo:rerun-if-env-changed=AWS_LC_SYS_EXTERNAL_BINDGEN_x86_64_pc_windows_msvc
+  cargo:rerun-if-env-changed=AWS_LC_SYS_EXTERNAL_BINDGEN
+  cargo:rerun-if-env-changed=AWS_LC_SYS_NO_ASM_x86_64_pc_windows_msvc
+  cargo:rerun-if-env-changed=AWS_LC_SYS_NO_ASM
+  cargo:rerun-if-env-changed=AWS_LC_SYS_CFLAGS_x86_64_pc_windows_msvc
+  cargo:rerun-if-env-changed=AWS_LC_SYS_CFLAGS
+  cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+  cargo:rerun-if-env-changed=CFLAGS
+  cargo:rerun-if-env-changed=AWS_LC_SYS_PREBUILT_NASM_x86_64_pc_windows_msvc
+  cargo:rerun-if-env-changed=AWS_LC_SYS_PREBUILT_NASM
+  cargo:rerun-if-env-changed=AWS_LC_SYS_C_STD_x86_64_pc_windows_msvc
+  cargo:rerun-if-env-changed=AWS_LC_SYS_C_STD
+  cargo:rerun-if-env-changed=AWS_LC_SYS_CMAKE_BUILDER_x86_64_pc_windows_msvc
+  cargo:rerun-if-env-changed=AWS_LC_SYS_CMAKE_BUILDER
+  cargo:rerun-if-env-changed=AWS_LC_SYS_NO_PREGENERATED_SRC_x86_64_pc_windows_msvc
+  cargo:rerun-if-env-changed=AWS_LC_SYS_NO_PREGENERATED_SRC
+  cargo:rerun-if-env-changed=AWS_LC_SYS_EFFECTIVE_TARGET_x86_64_pc_windows_msvc
+  cargo:rerun-if-env-changed=AWS_LC_SYS_EFFECTIVE_TARGET
+  cargo:rerun-if-env-changed=AWS_LC_SYS_NO_JITTER_ENTROPY_x86_64_pc_windows_msvc
+  cargo:rerun-if-env-changed=AWS_LC_SYS_NO_JITTER_ENTROPY
+  cargo:warning=Emitting configuration: cargo:rustc-cfg=universal
+  cargo:rustc-cfg=universal
+  cargo:rerun-if-env-changed=AWS_LC_SYS_STATIC_x86_64_pc_windows_msvc
+  cargo:rerun-if-env-changed=AWS_LC_SYS_STATIC
+  default_for Target: 'x86_64-pc-windows-msvc'
+  cargo:rerun-if-env-changed=AWS_LC_SYS_STATIC_x86_64_pc_windows_msvc
+  cargo:rerun-if-env-changed=AWS_LC_SYS_STATIC
+  cargo:warning=NASM command not found or failed to execute.
+  cargo:warning=NASM command not found or failed to execute.
+  cargo:rerun-if-env-changed=AWS_LC_SYS_CMAKE_x86_64_pc_windows_msvc
+  cargo:rerun-if-env-changed=AWS_LC_SYS_CMAKE
+  cargo:rerun-if-env-changed=CMAKE_x86_64_pc_windows_msvc
+  cargo:rerun-if-env-changed=CMAKE
+
+  --- stderr
+  Missing dependency: cmake
+
+  thread 'main' (144828) panicked at C:\Users\Jmarcum\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aws-lc-sys-0.35.0\builder\main.rs:445:40:
+  called `Result::unwrap()` on an `Err` value: "Required build dependency is missing. Halting build."
+  stack backtrace:
+     0: std::panicking::panic_handler
+               at /rustc/39052daf937d46373ac29778e1b8853c52c0cc25/library\std\src\panicking.rs:689
+     1: core::panicking::panic_fmt
+               at /rustc/39052daf937d46373ac29778e1b8853c52c0cc25/library\core\src\panicking.rs:80
+     2: core::result::unwrap_failed
+               at /rustc/39052daf937d46373ac29778e1b8853c52c0cc25/library\core\src\result.rs:1867
+     3: build_script_main::target_env
+     4: build_script_main::main
+     5: <core::result::Result<u64, fs_extra::error::Error> as core::ops::try_trait::FromResidual<core::result::Result<core::convert::Infallible, std::io::error::Error>>>::from_residual
+  note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+   Compiling serde v1.0.228
+   Compiling wasmparser v0.243.0
+   Compiling io-extras v0.18.4
+   Compiling serde_derive v1.0.228
+   Compiling zerofrom-derive v0.1.6
+   Compiling yoke-derive v0.8.1
+   Compiling pulley-macros v40.0.4
+   Compiling zerovec-derive v0.11.2
+   Compiling displaydoc v0.2.5
+   Compiling thiserror-impl v2.0.17
+   Compiling pulley-interpreter v40.0.4
+   Compiling cranelift-codegen-meta v0.127.4
+    Checking zerofrom v0.1.6
+   Compiling wasmtime-internal-versioned-export-macros v40.0.4
+   Compiling libc v0.2.180
+    Checking yoke v0.8.1
+    Checking smallvec v1.15.1
+    Checking hashbrown v0.15.5
+    Checking cranelift-bitset v0.127.4
+    Checking zerovec v0.11.5
+   Compiling object v0.37.3
+   Compiling aws-lc-rs v1.15.2
+    Checking regalloc2 v0.13.5
+    Checking cranelift-entity v0.127.4
+    Checking tinystr v0.8.2
+   Compiling winapi v0.3.9
+    Checking potential_utf v0.1.4
+    Checking icu_locale_core v2.1.1
+    Checking cobs v0.3.0
+    Checking cranelift-bforest v0.127.4
+   Compiling cranelift-codegen v0.127.4
+    Checking zerotrie v0.2.3
+   Compiling tracing-attributes v0.1.31
+   Compiling zmij v1.0.13
+   Compiling zstd-safe v7.2.4
+   Compiling icu_properties_data v2.1.2
+   Compiling wasm-encoder v0.243.0
+   Compiling icu_normalizer_data v2.1.1
+    Checking icu_provider v2.1.1
+   Compiling indexmap v2.13.0
+    Checking tracing v0.1.44
+    Checking postcard v1.1.3
+    Checking icu_collections v2.1.1
+    Checking block-buffer v0.10.4
+    Checking crypto-common v0.1.7
+    Checking winx v0.36.4
+   Compiling thiserror v1.0.69
+   Compiling zerocopy v0.8.33
+   Compiling wasmtime-internal-unwinder v40.0.4
+   Compiling wit-parser v0.243.0
+    Checking wasmprinter v0.243.0
+    Checking digest v0.10.7
+error: could not compile `wasmtime-internal-unwinder` (build script) due to 1 previous error
+    Checking dirs-sys-next v0.1.2
+   Compiling wasmtime-internal-fiber v40.0.4
+   Compiling thiserror-impl v1.0.69
+    Checking serde_spanned v1.0.4
+    Checking toml_datetime v0.7.5+spec-1.1.0
+   Compiling wasmtime-internal-component-macro v40.0.4
+   Compiling rustls v0.23.36
+   Compiling httparse v1.10.1
+   Compiling wasmtime-internal-cache v40.0.4
+    Checking toml v0.9.11+spec-1.1.0
+    Checking wasmtime-environ v40.0.4
+    Checking sha2 v0.10.9
+    Checking icu_properties v2.1.2
+    Checking icu_normalizer v2.1.1
+   Compiling wasmtime-internal-wit-bindgen v40.0.4
+    Checking directories-next v2.0.0
+    Checking zstd v0.13.3
+    Checking cranelift-frontend v0.127.4
+    Checking cranelift-native v0.127.4
+   Compiling wasmtime v40.0.4
+    Checking tokio-util v0.7.18
+   Compiling indexmap v1.9.3
+    Checking ppv-lite86 v0.2.21
+    Checking idna_adapter v1.2.1
+   Compiling witx v0.9.1
+    Checking h2 v0.4.13
+   Compiling windows-implement v0.60.2
+   Compiling windows-interface v0.59.3
+   Compiling async-trait v0.1.89
+    Checking wasmtime-internal-jit-icache-coherence v40.0.4
+   Compiling wiggle-macro v40.0.4
+   Compiling rustix v1.1.3
+   Compiling cap-fs-ext v3.4.5
+    Checking idna v1.1.0
+    Checking windows-core v0.62.2
+    Checking hyper v1.8.1
+   Compiling wiggle-generate v40.0.4
+    Checking rand_chacha v0.3.1
+   Compiling system-interface v0.27.3
+   Compiling wasmparser v0.240.0
+   Compiling wasm-encoder v0.240.0
+error: could not compile `system-interface` (build script) due to 1 previous error
+    Checking tower v0.5.2
+    Checking rand v0.8.5
+    Checking url v2.5.8
+    Checking iana-time-zone v0.1.64
+    Checking hyper-util v0.1.19
+    Checking fd-lock v4.0.4
+    Checking gimli v0.26.2
+    Checking tower-http v0.6.8
+    Checking cap-rand v3.4.5
+   Compiling walrus-macro v0.24.0
+   Compiling clap_derive v4.5.49
+    Checking wasmparser v0.244.0
+    Checking wasmprinter v0.244.0
+    Checking walrus v0.24.4
+    Checking clap v4.5.54
