@@ -30,9 +30,8 @@ wat = "1.244.0"
 wasmprinter = "0.244.0"
 walrus = "0.24.4"
 
-# Reqwest: Pure-Rust TLS
-# Using 'rustls-tls-manual-roots' ensures we don't pull in C-based crypto builders
-reqwest = { version = "0.13.1", default-features = false, features = ["blocking", "json", "http2", "rustls"] }
+# Reqwest: native TLS (uses Windows SChannel — no cmake/NASM required)
+reqwest = { version = "0.13.1", default-features = false, features = ["blocking", "json", "http2", "native-tls"] }
 
 [profile.release]
 opt-level = 3
