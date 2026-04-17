@@ -87,7 +87,6 @@ fn create_engine() -> Result<Engine> {
     config.wasm_simd(true);
     config.wasm_bulk_memory(true);
     config.wasm_multi_memory(true);
-    let _ = config.cache_config_load_default();
     Engine::new(&config)
 }
 

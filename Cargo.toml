@@ -22,7 +22,7 @@ serde_json = "1.0"
 # Wasmtime: Pure-Rust Configuration
 # - default-features = false removes 'aws-lc-rs' (the CMake requirement)
 # - 42.x+ reintroduces aws-lc-sys (requires NASM/cmake) in the dep chain, stay on 40.x
-wasmtime = { version = "40.0.1", default-features = false, features = ["cranelift", "runtime", "component-model", "cache"] }
+wasmtime = { version = "40.0.1", default-features = false, features = ["cranelift", "runtime", "component-model"] }
 wasmtime-wasi = { version = "40.0.1", default-features = false, features = ["p1"] }
 
 # Wasm Tooling (Pure Rust)
