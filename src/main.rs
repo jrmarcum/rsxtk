@@ -10,7 +10,7 @@ use wasmtime_wasi::WasiCtxBuilder;
 use wasmtime_wasi::p1::{self, WasiP1Ctx};
 
 #[derive(Parser)]
-#[command(name = "rsxtk", version = "0.4.2")]
+#[command(name = "rsxtk", version = "0.4.3")]
 struct Cli {
     #[command(subcommand)]
     command: Commands,
